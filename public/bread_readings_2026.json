@@ -1,0 +1,3282 @@
+{
+  "source": "BREAD-2026-Digital-Guide.pdf",
+  "generated_at": "2026-01-21T22:41:04",
+  "by_date": {
+    "2026-01-04": {
+      "weekday": "Sunday",
+      "reading": "Psalm 89:1-18",
+      "week_title": "Chosen by God",
+      "sunday_label": "2nd Sunday after Christmas",
+      "season": null,
+      "week_start": "2026-01-04",
+      "is_sunday": true
+    },
+    "2026-01-05": {
+      "weekday": "Monday",
+      "reading": "John 15:12-17",
+      "week_title": "Chosen by God",
+      "sunday_label": "2nd Sunday after Christmas",
+      "season": null,
+      "week_start": "2026-01-04",
+      "is_sunday": false
+    },
+    "2026-01-06": {
+      "weekday": "Tuesday",
+      "reading": "1 Thessalonians 1:2-10",
+      "week_title": "Chosen by God",
+      "sunday_label": "2nd Sunday after Christmas",
+      "season": null,
+      "week_start": "2026-01-04",
+      "is_sunday": false
+    },
+    "2026-01-07": {
+      "weekday": "Wednesday",
+      "reading": "Isaiah 42:1-9",
+      "week_title": "Chosen by God",
+      "sunday_label": "2nd Sunday after Christmas",
+      "season": null,
+      "week_start": "2026-01-04",
+      "is_sunday": false
+    },
+    "2026-01-08": {
+      "weekday": "Thursday",
+      "reading": "Luke 10:1-12",
+      "week_title": "Chosen by God",
+      "sunday_label": "2nd Sunday after Christmas",
+      "season": null,
+      "week_start": "2026-01-04",
+      "is_sunday": false
+    },
+    "2026-01-09": {
+      "weekday": "Friday",
+      "reading": "1 Peter 2:1-10",
+      "week_title": "Chosen by God",
+      "sunday_label": "2nd Sunday after Christmas",
+      "season": null,
+      "week_start": "2026-01-04",
+      "is_sunday": false
+    },
+    "2026-01-10": {
+      "weekday": "Saturday",
+      "reading": "Colossians 3:12-17",
+      "week_title": "Chosen by God",
+      "sunday_label": "2nd Sunday after Christmas",
+      "season": null,
+      "week_start": "2026-01-04",
+      "is_sunday": false
+    },
+    "2026-01-11": {
+      "weekday": "Sunday",
+      "reading": "Psalm 45",
+      "week_title": "God’s Eternal Purpose",
+      "sunday_label": "1st Sunday after Epiphany",
+      "season": "Season after Epiphany",
+      "week_start": "2026-01-11",
+      "is_sunday": true
+    },
+    "2026-01-12": {
+      "weekday": "Monday",
+      "reading": "Isaiah 46:5-11",
+      "week_title": "God’s Eternal Purpose",
+      "sunday_label": "1st Sunday after Epiphany",
+      "season": "Season after Epiphany",
+      "week_start": "2026-01-11",
+      "is_sunday": false
+    },
+    "2026-01-13": {
+      "weekday": "Tuesday",
+      "reading": "Hebrews 6:9-20",
+      "week_title": "God’s Eternal Purpose",
+      "sunday_label": "1st Sunday after Epiphany",
+      "season": "Season after Epiphany",
+      "week_start": "2026-01-11",
+      "is_sunday": false
+    },
+    "2026-01-14": {
+      "weekday": "Wednesday",
+      "reading": "Matthew 19:16-30",
+      "week_title": "God’s Eternal Purpose",
+      "sunday_label": "1st Sunday after Epiphany",
+      "season": "Season after Epiphany",
+      "week_start": "2026-01-11",
+      "is_sunday": false
+    },
+    "2026-01-15": {
+      "weekday": "Thursday",
+      "reading": "Matthew 6:25-34",
+      "week_title": "God’s Eternal Purpose",
+      "sunday_label": "1st Sunday after Epiphany",
+      "season": "Season after Epiphany",
+      "week_start": "2026-01-11",
+      "is_sunday": false
+    },
+    "2026-01-16": {
+      "weekday": "Friday",
+      "reading": "1 Corinthians 3:10-17",
+      "week_title": "God’s Eternal Purpose",
+      "sunday_label": "1st Sunday after Epiphany",
+      "season": "Season after Epiphany",
+      "week_start": "2026-01-11",
+      "is_sunday": false
+    },
+    "2026-01-17": {
+      "weekday": "Saturday",
+      "reading": "2 Timothy 1:1-14",
+      "week_title": "God’s Eternal Purpose",
+      "sunday_label": "1st Sunday after Epiphany",
+      "season": "Season after Epiphany",
+      "week_start": "2026-01-11",
+      "is_sunday": false
+    },
+    "2026-01-18": {
+      "weekday": "Sunday",
+      "reading": "Psalm 148",
+      "week_title": "Following Jesus",
+      "sunday_label": "2nd Sunday after Epiphany",
+      "season": "Season after Epiphany",
+      "week_start": "2026-01-18",
+      "is_sunday": true
+    },
+    "2026-01-19": {
+      "weekday": "Monday",
+      "reading": "John 1:35-51",
+      "week_title": "Following Jesus",
+      "sunday_label": "2nd Sunday after Epiphany",
+      "season": "Season after Epiphany",
+      "week_start": "2026-01-18",
+      "is_sunday": false
+    },
+    "2026-01-20": {
+      "weekday": "Tuesday",
+      "reading": "Matthew 9:9-13",
+      "week_title": "Following Jesus",
+      "sunday_label": "2nd Sunday after Epiphany",
+      "season": "Season after Epiphany",
+      "week_start": "2026-01-18",
+      "is_sunday": false
+    },
+    "2026-01-21": {
+      "weekday": "Wednesday",
+      "reading": "Luke 9:23-27",
+      "week_title": "Following Jesus",
+      "sunday_label": "2nd Sunday after Epiphany",
+      "season": "Season after Epiphany",
+      "week_start": "2026-01-18",
+      "is_sunday": false
+    },
+    "2026-01-22": {
+      "weekday": "Thursday",
+      "reading": "Matthew 10:34-42",
+      "week_title": "Following Jesus",
+      "sunday_label": "2nd Sunday after Epiphany",
+      "season": "Season after Epiphany",
+      "week_start": "2026-01-18",
+      "is_sunday": false
+    },
+    "2026-01-23": {
+      "weekday": "Friday",
+      "reading": "John 10:22-30",
+      "week_title": "Following Jesus",
+      "sunday_label": "2nd Sunday after Epiphany",
+      "season": "Season after Epiphany",
+      "week_start": "2026-01-18",
+      "is_sunday": false
+    },
+    "2026-01-24": {
+      "weekday": "Saturday",
+      "reading": "Matthew 11:25-30",
+      "week_title": "Following Jesus",
+      "sunday_label": "2nd Sunday after Epiphany",
+      "season": "Season after Epiphany",
+      "week_start": "2026-01-18",
+      "is_sunday": false
+    },
+    "2026-01-25": {
+      "weekday": "Sunday",
+      "reading": "Psalm 131",
+      "week_title": "The Call of God",
+      "sunday_label": "3rd Sunday after Epiphany",
+      "season": "Season after Epiphany",
+      "week_start": "2026-01-25",
+      "is_sunday": true
+    },
+    "2026-01-26": {
+      "weekday": "Monday",
+      "reading": "Luke 5:1-11",
+      "week_title": "The Call of God",
+      "sunday_label": "3rd Sunday after Epiphany",
+      "season": "Season after Epiphany",
+      "week_start": "2026-01-25",
+      "is_sunday": false
+    },
+    "2026-01-27": {
+      "weekday": "Tuesday",
+      "reading": "Jeremiah 1:1-10",
+      "week_title": "The Call of God",
+      "sunday_label": "3rd Sunday after Epiphany",
+      "season": "Season after Epiphany",
+      "week_start": "2026-01-25",
+      "is_sunday": false
+    },
+    "2026-01-28": {
+      "weekday": "Wednesday",
+      "reading": "Romans 1:1-7",
+      "week_title": "The Call of God",
+      "sunday_label": "3rd Sunday after Epiphany",
+      "season": "Season after Epiphany",
+      "week_start": "2026-01-25",
+      "is_sunday": false
+    },
+    "2026-01-29": {
+      "weekday": "Thursday",
+      "reading": "1 Peter 1:13-25",
+      "week_title": "The Call of God",
+      "sunday_label": "3rd Sunday after Epiphany",
+      "season": "Season after Epiphany",
+      "week_start": "2026-01-25",
+      "is_sunday": false
+    },
+    "2026-01-30": {
+      "weekday": "Friday",
+      "reading": "1 Peter 3:8-12",
+      "week_title": "The Call of God",
+      "sunday_label": "3rd Sunday after Epiphany",
+      "season": "Season after Epiphany",
+      "week_start": "2026-01-25",
+      "is_sunday": false
+    },
+    "2026-01-31": {
+      "weekday": "Saturday",
+      "reading": "John 21:15-23",
+      "week_title": "The Call of God",
+      "sunday_label": "3rd Sunday after Epiphany",
+      "season": "Season after Epiphany",
+      "week_start": "2026-01-25",
+      "is_sunday": false
+    },
+    "2026-02-01": {
+      "weekday": "Sunday",
+      "reading": "Psalm 29",
+      "week_title": "The Power of God’s Word",
+      "sunday_label": "4th Sunday after Epiphany",
+      "season": "Season after Epiphany",
+      "week_start": "2026-02-01",
+      "is_sunday": true
+    },
+    "2026-02-02": {
+      "weekday": "Monday",
+      "reading": "John 1:1-13",
+      "week_title": "The Power of God’s Word",
+      "sunday_label": "4th Sunday after Epiphany",
+      "season": "Season after Epiphany",
+      "week_start": "2026-02-01",
+      "is_sunday": false
+    },
+    "2026-02-03": {
+      "weekday": "Tuesday",
+      "reading": "Genesis 1:1-19",
+      "week_title": "The Power of God’s Word",
+      "sunday_label": "4th Sunday after Epiphany",
+      "season": "Season after Epiphany",
+      "week_start": "2026-02-01",
+      "is_sunday": false
+    },
+    "2026-02-04": {
+      "weekday": "Wednesday",
+      "reading": "Genesis 1:20–31",
+      "week_title": "The Power of God’s Word",
+      "sunday_label": "4th Sunday after Epiphany",
+      "season": "Season after Epiphany",
+      "week_start": "2026-02-01",
+      "is_sunday": false
+    },
+    "2026-02-05": {
+      "weekday": "Thursday",
+      "reading": "Matthew 9:1-8",
+      "week_title": "The Power of God’s Word",
+      "sunday_label": "4th Sunday after Epiphany",
+      "season": "Season after Epiphany",
+      "week_start": "2026-02-01",
+      "is_sunday": false
+    },
+    "2026-02-06": {
+      "weekday": "Friday",
+      "reading": "2 Corinthians 12:1-10",
+      "week_title": "The Power of God’s Word",
+      "sunday_label": "4th Sunday after Epiphany",
+      "season": "Season after Epiphany",
+      "week_start": "2026-02-01",
+      "is_sunday": false
+    },
+    "2026-02-07": {
+      "weekday": "Saturday",
+      "reading": "1 Peter 1:3-9",
+      "week_title": "The Power of God’s Word",
+      "sunday_label": "4th Sunday after Epiphany",
+      "season": "Season after Epiphany",
+      "week_start": "2026-02-01",
+      "is_sunday": false
+    },
+    "2026-02-08": {
+      "weekday": "Sunday",
+      "reading": "Psalm 32",
+      "week_title": "The Meaning of Discipleship",
+      "sunday_label": "5th Sunday after Epiphany",
+      "season": "Season after Epiphany",
+      "week_start": "2026-02-08",
+      "is_sunday": true
+    },
+    "2026-02-09": {
+      "weekday": "Monday",
+      "reading": "Luke 14:7-14",
+      "week_title": "The Meaning of Discipleship",
+      "sunday_label": "5th Sunday after Epiphany",
+      "season": "Season after Epiphany",
+      "week_start": "2026-02-08",
+      "is_sunday": false
+    },
+    "2026-02-10": {
+      "weekday": "Tuesday",
+      "reading": "Luke 9:57-62",
+      "week_title": "The Meaning of Discipleship",
+      "sunday_label": "5th Sunday after Epiphany",
+      "season": "Season after Epiphany",
+      "week_start": "2026-02-08",
+      "is_sunday": false
+    },
+    "2026-02-11": {
+      "weekday": "Wednesday",
+      "reading": "Luke 14:25-34",
+      "week_title": "The Meaning of Discipleship",
+      "sunday_label": "5th Sunday after Epiphany",
+      "season": "Season after Epiphany",
+      "week_start": "2026-02-08",
+      "is_sunday": false
+    },
+    "2026-02-12": {
+      "weekday": "Thursday",
+      "reading": "John 6:60-71",
+      "week_title": "The Meaning of Discipleship",
+      "sunday_label": "5th Sunday after Epiphany",
+      "season": "Season after Epiphany",
+      "week_start": "2026-02-08",
+      "is_sunday": false
+    },
+    "2026-02-13": {
+      "weekday": "Friday",
+      "reading": "Acts 4:32-37",
+      "week_title": "The Meaning of Discipleship",
+      "sunday_label": "5th Sunday after Epiphany",
+      "season": "Season after Epiphany",
+      "week_start": "2026-02-08",
+      "is_sunday": false
+    },
+    "2026-02-14": {
+      "weekday": "Saturday",
+      "reading": "Romans 15:1-13",
+      "week_title": "The Meaning of Discipleship",
+      "sunday_label": "5th Sunday after Epiphany",
+      "season": "Season after Epiphany",
+      "week_start": "2026-02-08",
+      "is_sunday": false
+    },
+    "2026-02-15": {
+      "weekday": "Sunday",
+      "reading": "Psalm 66",
+      "week_title": "God’s Transforming Power",
+      "sunday_label": "Last Sunday after Epiphany",
+      "season": "Season after Epiphany",
+      "week_start": "2026-02-15",
+      "is_sunday": true
+    },
+    "2026-02-16": {
+      "weekday": "Monday",
+      "reading": "2 Corinthians 3:4-18",
+      "week_title": "God’s Transforming Power",
+      "sunday_label": "Last Sunday after Epiphany",
+      "season": "Season after Epiphany",
+      "week_start": "2026-02-15",
+      "is_sunday": false
+    },
+    "2026-02-17": {
+      "weekday": "Tuesday",
+      "reading": "1 Peter 1:13-25",
+      "week_title": "God’s Transforming Power",
+      "sunday_label": "Last Sunday after Epiphany",
+      "season": "Season after Epiphany",
+      "week_start": "2026-02-15",
+      "is_sunday": false
+    },
+    "2026-02-18": {
+      "weekday": "Wednesday",
+      "reading": "Hebrews 1:1-4",
+      "week_title": "God’s Transforming Power",
+      "sunday_label": "Last Sunday after Epiphany",
+      "season": "Season after Epiphany",
+      "week_start": "2026-02-15",
+      "is_sunday": false
+    },
+    "2026-02-19": {
+      "weekday": "Thursday",
+      "reading": "Jeremiah 32:16-27",
+      "week_title": "God’s Transforming Power",
+      "sunday_label": "Last Sunday after Epiphany",
+      "season": "Season after Epiphany",
+      "week_start": "2026-02-15",
+      "is_sunday": false
+    },
+    "2026-02-20": {
+      "weekday": "Friday",
+      "reading": "Luke 9:1-6",
+      "week_title": "God’s Transforming Power",
+      "sunday_label": "Last Sunday after Epiphany",
+      "season": "Season after Epiphany",
+      "week_start": "2026-02-15",
+      "is_sunday": false
+    },
+    "2026-02-21": {
+      "weekday": "Saturday",
+      "reading": "Luke 24:36-53",
+      "week_title": "God’s Transforming Power",
+      "sunday_label": "Last Sunday after Epiphany",
+      "season": "Season after Epiphany",
+      "week_start": "2026-02-15",
+      "is_sunday": false
+    },
+    "2026-02-22": {
+      "weekday": "Sunday",
+      "reading": "Psalm 19",
+      "week_title": "Getting Ready to Serve",
+      "sunday_label": "1st Sunday in Lent",
+      "season": "Season of Lent",
+      "week_start": "2026-02-22",
+      "is_sunday": true
+    },
+    "2026-02-23": {
+      "weekday": "Monday",
+      "reading": "Luke 16:1-13",
+      "week_title": "Getting Ready to Serve",
+      "sunday_label": "1st Sunday in Lent",
+      "season": "Season of Lent",
+      "week_start": "2026-02-22",
+      "is_sunday": false
+    },
+    "2026-02-24": {
+      "weekday": "Tuesday",
+      "reading": "Matthew 20:20-28",
+      "week_title": "Getting Ready to Serve",
+      "sunday_label": "1st Sunday in Lent",
+      "season": "Season of Lent",
+      "week_start": "2026-02-22",
+      "is_sunday": false
+    },
+    "2026-02-25": {
+      "weekday": "Wednesday",
+      "reading": "Philippians 2:1-11",
+      "week_title": "Getting Ready to Serve",
+      "sunday_label": "1st Sunday in Lent",
+      "season": "Season of Lent",
+      "week_start": "2026-02-22",
+      "is_sunday": false
+    },
+    "2026-02-26": {
+      "weekday": "Thursday",
+      "reading": "Hebrews 12:12-17",
+      "week_title": "Getting Ready to Serve",
+      "sunday_label": "1st Sunday in Lent",
+      "season": "Season of Lent",
+      "week_start": "2026-02-22",
+      "is_sunday": false
+    },
+    "2026-02-27": {
+      "weekday": "Friday",
+      "reading": "1 Peter 4:1-11",
+      "week_title": "Getting Ready to Serve",
+      "sunday_label": "1st Sunday in Lent",
+      "season": "Season of Lent",
+      "week_start": "2026-02-22",
+      "is_sunday": false
+    },
+    "2026-02-28": {
+      "weekday": "Saturday",
+      "reading": "John 12:20-36",
+      "week_title": "Getting Ready to Serve",
+      "sunday_label": "1st Sunday in Lent",
+      "season": "Season of Lent",
+      "week_start": "2026-02-22",
+      "is_sunday": false
+    },
+    "2026-03-01": {
+      "weekday": "Sunday",
+      "reading": "Psalm 119:33-48",
+      "week_title": "What God Has Promised",
+      "sunday_label": "2nd Sunday in Lent",
+      "season": "Season of Lent",
+      "week_start": "2026-03-01",
+      "is_sunday": true
+    },
+    "2026-03-02": {
+      "weekday": "Monday",
+      "reading": "1 Kings 8:22-30",
+      "week_title": "What God Has Promised",
+      "sunday_label": "2nd Sunday in Lent",
+      "season": "Season of Lent",
+      "week_start": "2026-03-01",
+      "is_sunday": false
+    },
+    "2026-03-03": {
+      "weekday": "Tuesday",
+      "reading": "Nehemiah 9:6-25",
+      "week_title": "What God Has Promised",
+      "sunday_label": "2nd Sunday in Lent",
+      "season": "Season of Lent",
+      "week_start": "2026-03-01",
+      "is_sunday": false
+    },
+    "2026-03-04": {
+      "weekday": "Wednesday",
+      "reading": "Romans 4:16-25",
+      "week_title": "What God Has Promised",
+      "sunday_label": "2nd Sunday in Lent",
+      "season": "Season of Lent",
+      "week_start": "2026-03-01",
+      "is_sunday": false
+    },
+    "2026-03-05": {
+      "weekday": "Thursday",
+      "reading": "James 1:1-15",
+      "week_title": "What God Has Promised",
+      "sunday_label": "2nd Sunday in Lent",
+      "season": "Season of Lent",
+      "week_start": "2026-03-01",
+      "is_sunday": false
+    },
+    "2026-03-06": {
+      "weekday": "Friday",
+      "reading": "2 Corinthians 1:12-22",
+      "week_title": "What God Has Promised",
+      "sunday_label": "2nd Sunday in Lent",
+      "season": "Season of Lent",
+      "week_start": "2026-03-01",
+      "is_sunday": false
+    },
+    "2026-03-07": {
+      "weekday": "Saturday",
+      "reading": "2 Peter 3:5-13",
+      "week_title": "What God Has Promised",
+      "sunday_label": "2nd Sunday in Lent",
+      "season": "Season of Lent",
+      "week_start": "2026-03-01",
+      "is_sunday": false
+    },
+    "2026-03-08": {
+      "weekday": "Sunday",
+      "reading": "Psalm 27",
+      "week_title": "Meeting God Face to Face",
+      "sunday_label": "3rd Sunday in Lent",
+      "season": "Season of Lent",
+      "week_start": "2026-03-08",
+      "is_sunday": true
+    },
+    "2026-03-09": {
+      "weekday": "Monday",
+      "reading": "Genesis 32:22-32",
+      "week_title": "Meeting God Face to Face",
+      "sunday_label": "3rd Sunday in Lent",
+      "season": "Season of Lent",
+      "week_start": "2026-03-08",
+      "is_sunday": false
+    },
+    "2026-03-10": {
+      "weekday": "Tuesday",
+      "reading": "Exodus 3:1-12",
+      "week_title": "Meeting God Face to Face",
+      "sunday_label": "3rd Sunday in Lent",
+      "season": "Season of Lent",
+      "week_start": "2026-03-08",
+      "is_sunday": false
+    },
+    "2026-03-11": {
+      "weekday": "Wednesday",
+      "reading": "Isaiah 55",
+      "week_title": "Meeting God Face to Face",
+      "sunday_label": "3rd Sunday in Lent",
+      "season": "Season of Lent",
+      "week_start": "2026-03-08",
+      "is_sunday": false
+    },
+    "2026-03-12": {
+      "weekday": "Thursday",
+      "reading": "2 Corinthians 4:1-6",
+      "week_title": "Meeting God Face to Face",
+      "sunday_label": "3rd Sunday in Lent",
+      "season": "Season of Lent",
+      "week_start": "2026-03-08",
+      "is_sunday": false
+    },
+    "2026-03-13": {
+      "weekday": "Friday",
+      "reading": "1 Corinthians 13:1-13",
+      "week_title": "Meeting God Face to Face",
+      "sunday_label": "3rd Sunday in Lent",
+      "season": "Season of Lent",
+      "week_start": "2026-03-08",
+      "is_sunday": false
+    },
+    "2026-03-14": {
+      "weekday": "Saturday",
+      "reading": "Romans 8:1-17",
+      "week_title": "Meeting God Face to Face",
+      "sunday_label": "3rd Sunday in Lent",
+      "season": "Season of Lent",
+      "week_start": "2026-03-08",
+      "is_sunday": false
+    },
+    "2026-03-15": {
+      "weekday": "Sunday",
+      "reading": "Psalm 107",
+      "week_title": "The God Who Seeks",
+      "sunday_label": "4th Sunday in Lent",
+      "season": "Season of Lent",
+      "week_start": "2026-03-15",
+      "is_sunday": true
+    },
+    "2026-03-16": {
+      "weekday": "Monday",
+      "reading": "Luke 19:1-10",
+      "week_title": "The God Who Seeks",
+      "sunday_label": "4th Sunday in Lent",
+      "season": "Season of Lent",
+      "week_start": "2026-03-15",
+      "is_sunday": false
+    },
+    "2026-03-17": {
+      "weekday": "Tuesday",
+      "reading": "Matthew 18:10-14",
+      "week_title": "The God Who Seeks",
+      "sunday_label": "4th Sunday in Lent",
+      "season": "Season of Lent",
+      "week_start": "2026-03-15",
+      "is_sunday": false
+    },
+    "2026-03-18": {
+      "weekday": "Wednesday",
+      "reading": "Ezekiel 36:22-30",
+      "week_title": "The God Who Seeks",
+      "sunday_label": "4th Sunday in Lent",
+      "season": "Season of Lent",
+      "week_start": "2026-03-15",
+      "is_sunday": false
+    },
+    "2026-03-19": {
+      "weekday": "Thursday",
+      "reading": "Jeremiah 30:1-10",
+      "week_title": "The God Who Seeks",
+      "sunday_label": "4th Sunday in Lent",
+      "season": "Season of Lent",
+      "week_start": "2026-03-15",
+      "is_sunday": false
+    },
+    "2026-03-20": {
+      "weekday": "Friday",
+      "reading": "Hebrews 2:1-18",
+      "week_title": "The God Who Seeks",
+      "sunday_label": "4th Sunday in Lent",
+      "season": "Season of Lent",
+      "week_start": "2026-03-15",
+      "is_sunday": false
+    },
+    "2026-03-21": {
+      "weekday": "Saturday",
+      "reading": "Romans 5:1-11",
+      "week_title": "The God Who Seeks",
+      "sunday_label": "4th Sunday in Lent",
+      "season": "Season of Lent",
+      "week_start": "2026-03-15",
+      "is_sunday": false
+    },
+    "2026-03-22": {
+      "weekday": "Sunday",
+      "reading": "Psalm 36",
+      "week_title": "Power to Give Life",
+      "sunday_label": "5th Sunday in Lent",
+      "season": "Season of Lent",
+      "week_start": "2026-03-22",
+      "is_sunday": true
+    },
+    "2026-03-23": {
+      "weekday": "Monday",
+      "reading": "John 17:1-19",
+      "week_title": "Power to Give Life",
+      "sunday_label": "5th Sunday in Lent",
+      "season": "Season of Lent",
+      "week_start": "2026-03-22",
+      "is_sunday": false
+    },
+    "2026-03-24": {
+      "weekday": "Tuesday",
+      "reading": "Romans 6:1-14",
+      "week_title": "Power to Give Life",
+      "sunday_label": "5th Sunday in Lent",
+      "season": "Season of Lent",
+      "week_start": "2026-03-22",
+      "is_sunday": false
+    },
+    "2026-03-25": {
+      "weekday": "Wednesday",
+      "reading": "John 10:22-30",
+      "week_title": "Power to Give Life",
+      "sunday_label": "5th Sunday in Lent",
+      "season": "Season of Lent",
+      "week_start": "2026-03-22",
+      "is_sunday": false
+    },
+    "2026-03-26": {
+      "weekday": "Thursday",
+      "reading": "Matthew 16:21-28",
+      "week_title": "Power to Give Life",
+      "sunday_label": "5th Sunday in Lent",
+      "season": "Season of Lent",
+      "week_start": "2026-03-22",
+      "is_sunday": false
+    },
+    "2026-03-27": {
+      "weekday": "Friday",
+      "reading": "Luke 8:40-56",
+      "week_title": "Power to Give Life",
+      "sunday_label": "5th Sunday in Lent",
+      "season": "Season of Lent",
+      "week_start": "2026-03-22",
+      "is_sunday": false
+    },
+    "2026-03-28": {
+      "weekday": "Saturday",
+      "reading": "John 12:44-50",
+      "week_title": "Power to Give Life",
+      "sunday_label": "5th Sunday in Lent",
+      "season": "Season of Lent",
+      "week_start": "2026-03-22",
+      "is_sunday": false
+    },
+    "2026-03-29": {
+      "weekday": "Sunday",
+      "reading": "Psalm 56",
+      "week_title": "The Cost of Right Choices",
+      "sunday_label": "Palm Sunday",
+      "season": "Season of Lent",
+      "week_start": "2026-03-29",
+      "is_sunday": true
+    },
+    "2026-03-30": {
+      "weekday": "Monday",
+      "reading": "Acts 14:19-28",
+      "week_title": "The Cost of Right Choices",
+      "sunday_label": "Palm Sunday",
+      "season": "Season of Lent",
+      "week_start": "2026-03-29",
+      "is_sunday": false
+    },
+    "2026-03-31": {
+      "weekday": "Tuesday",
+      "reading": "1 Peter 2:21-25",
+      "week_title": "The Cost of Right Choices",
+      "sunday_label": "Palm Sunday",
+      "season": "Season of Lent",
+      "week_start": "2026-03-29",
+      "is_sunday": false
+    },
+    "2026-04-01": {
+      "weekday": "Wednesday",
+      "reading": "1 Corinthians 1:3-11",
+      "week_title": "The Cost of Right Choices",
+      "sunday_label": "Palm Sunday",
+      "season": "Season of Lent",
+      "week_start": "2026-03-29",
+      "is_sunday": false
+    },
+    "2026-04-02": {
+      "weekday": "Thursday",
+      "reading": "Isaiah 53:1-6",
+      "week_title": "The Cost of Right Choices",
+      "sunday_label": "Palm Sunday",
+      "season": "Season of Lent",
+      "week_start": "2026-03-29",
+      "is_sunday": false
+    },
+    "2026-04-03": {
+      "weekday": "Friday",
+      "reading": "Isaiah 53:7-9",
+      "week_title": "The Cost of Right Choices",
+      "sunday_label": "Palm Sunday",
+      "season": "Season of Lent",
+      "week_start": "2026-03-29",
+      "is_sunday": false
+    },
+    "2026-04-04": {
+      "weekday": "Saturday",
+      "reading": "Isaiah 53:10-12",
+      "week_title": "The Cost of Right Choices",
+      "sunday_label": "Palm Sunday",
+      "season": "Season of Lent",
+      "week_start": "2026-03-29",
+      "is_sunday": false
+    },
+    "2026-04-05": {
+      "weekday": "Sunday",
+      "reading": "Psalm 23",
+      "week_title": "The Living Christ",
+      "sunday_label": "Easter Sunday",
+      "season": "Season of Lent",
+      "week_start": "2026-04-05",
+      "is_sunday": true
+    },
+    "2026-04-06": {
+      "weekday": "Monday",
+      "reading": "Acts 3:11-16",
+      "week_title": "The Living Christ",
+      "sunday_label": "Easter Sunday",
+      "season": "Season of Lent",
+      "week_start": "2026-04-05",
+      "is_sunday": false
+    },
+    "2026-04-07": {
+      "weekday": "Tuesday",
+      "reading": "Acts 4:1-12",
+      "week_title": "The Living Christ",
+      "sunday_label": "Easter Sunday",
+      "season": "Season of Lent",
+      "week_start": "2026-04-05",
+      "is_sunday": false
+    },
+    "2026-04-08": {
+      "weekday": "Wednesday",
+      "reading": "Acts 5:17-32",
+      "week_title": "The Living Christ",
+      "sunday_label": "Easter Sunday",
+      "season": "Season of Lent",
+      "week_start": "2026-04-05",
+      "is_sunday": false
+    },
+    "2026-04-09": {
+      "weekday": "Thursday",
+      "reading": "Acts 2:22-36",
+      "week_title": "The Living Christ",
+      "sunday_label": "Easter Sunday",
+      "season": "Season of Lent",
+      "week_start": "2026-04-05",
+      "is_sunday": false
+    },
+    "2026-04-10": {
+      "weekday": "Friday",
+      "reading": "Ephesians 1:15-23",
+      "week_title": "The Living Christ",
+      "sunday_label": "Easter Sunday",
+      "season": "Season of Lent",
+      "week_start": "2026-04-05",
+      "is_sunday": false
+    },
+    "2026-04-11": {
+      "weekday": "Saturday",
+      "reading": "2 Corinthians 4:7-18",
+      "week_title": "The Living Christ",
+      "sunday_label": "Easter Sunday",
+      "season": "Season of Lent",
+      "week_start": "2026-04-05",
+      "is_sunday": false
+    },
+    "2026-04-12": {
+      "weekday": "Sunday",
+      "reading": "Psalm 126",
+      "week_title": "Life in Christ",
+      "sunday_label": "2nd Sunday of Easter",
+      "season": "Season of Lent",
+      "week_start": "2026-04-12",
+      "is_sunday": true
+    },
+    "2026-04-13": {
+      "weekday": "Monday",
+      "reading": "Romans 6:1-11",
+      "week_title": "Life in Christ",
+      "sunday_label": "2nd Sunday of Easter",
+      "season": "Season of Lent",
+      "week_start": "2026-04-12",
+      "is_sunday": false
+    },
+    "2026-04-14": {
+      "weekday": "Tuesday",
+      "reading": "Ephesians 2:1-10",
+      "week_title": "Life in Christ",
+      "sunday_label": "2nd Sunday of Easter",
+      "season": "Season of Lent",
+      "week_start": "2026-04-12",
+      "is_sunday": false
+    },
+    "2026-04-15": {
+      "weekday": "Wednesday",
+      "reading": "Galatians 2:11-21",
+      "week_title": "Life in Christ",
+      "sunday_label": "2nd Sunday of Easter",
+      "season": "Season of Lent",
+      "week_start": "2026-04-12",
+      "is_sunday": false
+    },
+    "2026-04-16": {
+      "weekday": "Thursday",
+      "reading": "John 17:1-5",
+      "week_title": "Life in Christ",
+      "sunday_label": "2nd Sunday of Easter",
+      "season": "Season of Lent",
+      "week_start": "2026-04-12",
+      "is_sunday": false
+    },
+    "2026-04-17": {
+      "weekday": "Friday",
+      "reading": "Romans 6:15-23",
+      "week_title": "Life in Christ",
+      "sunday_label": "2nd Sunday of Easter",
+      "season": "Season of Lent",
+      "week_start": "2026-04-12",
+      "is_sunday": false
+    },
+    "2026-04-18": {
+      "weekday": "Saturday",
+      "reading": "Romans 8:18-30",
+      "week_title": "Life in Christ",
+      "sunday_label": "2nd Sunday of Easter",
+      "season": "Season of Lent",
+      "week_start": "2026-04-12",
+      "is_sunday": false
+    },
+    "2026-04-19": {
+      "weekday": "Sunday",
+      "reading": "Psalm 121",
+      "week_title": "Companionship with the Living Lord",
+      "sunday_label": "3rd Sunday of Easter",
+      "season": "Season of Lent",
+      "week_start": "2026-04-19",
+      "is_sunday": true
+    },
+    "2026-04-20": {
+      "weekday": "Monday",
+      "reading": "Ezekiel 36:22-36",
+      "week_title": "Companionship with the Living Lord",
+      "sunday_label": "3rd Sunday of Easter",
+      "season": "Season of Lent",
+      "week_start": "2026-04-19",
+      "is_sunday": false
+    },
+    "2026-04-21": {
+      "weekday": "Tuesday",
+      "reading": "Genesis 17:1-8",
+      "week_title": "Companionship with the Living Lord",
+      "sunday_label": "3rd Sunday of Easter",
+      "season": "Season of Lent",
+      "week_start": "2026-04-19",
+      "is_sunday": false
+    },
+    "2026-04-22": {
+      "weekday": "Wednesday",
+      "reading": "Genesis 39:19-23",
+      "week_title": "Companionship with the Living Lord",
+      "sunday_label": "3rd Sunday of Easter",
+      "season": "Season of Lent",
+      "week_start": "2026-04-19",
+      "is_sunday": false
+    },
+    "2026-04-23": {
+      "weekday": "Thursday",
+      "reading": "Philippians 4:1-9",
+      "week_title": "Companionship with the Living Lord",
+      "sunday_label": "3rd Sunday of Easter",
+      "season": "Season of Lent",
+      "week_start": "2026-04-19",
+      "is_sunday": false
+    },
+    "2026-04-24": {
+      "weekday": "Friday",
+      "reading": "Colossians 2:6-15",
+      "week_title": "Companionship with the Living Lord",
+      "sunday_label": "3rd Sunday of Easter",
+      "season": "Season of Lent",
+      "week_start": "2026-04-19",
+      "is_sunday": false
+    },
+    "2026-04-25": {
+      "weekday": "Saturday",
+      "reading": "Acts 4:23-37",
+      "week_title": "Companionship with the Living Lord",
+      "sunday_label": "3rd Sunday of Easter",
+      "season": "Season of Lent",
+      "week_start": "2026-04-19",
+      "is_sunday": false
+    },
+    "2026-04-26": {
+      "weekday": "Sunday",
+      "reading": "Psalm 80",
+      "week_title": "The True Shepherd",
+      "sunday_label": "4th Sunday of Easter",
+      "season": "Season of Lent",
+      "week_start": "2026-04-26",
+      "is_sunday": true
+    },
+    "2026-04-27": {
+      "weekday": "Monday",
+      "reading": "Jeremiah 23:1-8",
+      "week_title": "The True Shepherd",
+      "sunday_label": "4th Sunday of Easter",
+      "season": "Season of Lent",
+      "week_start": "2026-04-26",
+      "is_sunday": false
+    },
+    "2026-04-28": {
+      "weekday": "Tuesday",
+      "reading": "Ezekiel 11:14-21",
+      "week_title": "The True Shepherd",
+      "sunday_label": "4th Sunday of Easter",
+      "season": "Season of Lent",
+      "week_start": "2026-04-26",
+      "is_sunday": false
+    },
+    "2026-04-29": {
+      "weekday": "Wednesday",
+      "reading": "Jeremiah 31:10-14",
+      "week_title": "The True Shepherd",
+      "sunday_label": "4th Sunday of Easter",
+      "season": "Season of Lent",
+      "week_start": "2026-04-26",
+      "is_sunday": false
+    },
+    "2026-04-30": {
+      "weekday": "Thursday",
+      "reading": "John 10:1-18",
+      "week_title": "The True Shepherd",
+      "sunday_label": "4th Sunday of Easter",
+      "season": "Season of Lent",
+      "week_start": "2026-04-26",
+      "is_sunday": false
+    },
+    "2026-05-01": {
+      "weekday": "Friday",
+      "reading": "1 Peter 5:1-11",
+      "week_title": "The True Shepherd",
+      "sunday_label": "4th Sunday of Easter",
+      "season": "Season of Lent",
+      "week_start": "2026-04-26",
+      "is_sunday": false
+    },
+    "2026-05-02": {
+      "weekday": "Saturday",
+      "reading": "Acts 20:17-38",
+      "week_title": "The True Shepherd",
+      "sunday_label": "4th Sunday of Easter",
+      "season": "Season of Lent",
+      "week_start": "2026-04-26",
+      "is_sunday": false
+    },
+    "2026-05-03": {
+      "weekday": "Sunday",
+      "reading": "Psalm 34",
+      "week_title": "Staying Close to God",
+      "sunday_label": "5th Sunday of Easter",
+      "season": "Season of Lent",
+      "week_start": "2026-05-03",
+      "is_sunday": true
+    },
+    "2026-05-04": {
+      "weekday": "Monday",
+      "reading": "Psalm 18:1-19",
+      "week_title": "Staying Close to God",
+      "sunday_label": "5th Sunday of Easter",
+      "season": "Season of Lent",
+      "week_start": "2026-05-03",
+      "is_sunday": false
+    },
+    "2026-05-05": {
+      "weekday": "Tuesday",
+      "reading": "Matthew 7:21-28",
+      "week_title": "Staying Close to God",
+      "sunday_label": "5th Sunday of Easter",
+      "season": "Season of Lent",
+      "week_start": "2026-05-03",
+      "is_sunday": false
+    },
+    "2026-05-06": {
+      "weekday": "Wednesday",
+      "reading": "Mark 12:28-34",
+      "week_title": "Staying Close to God",
+      "sunday_label": "5th Sunday of Easter",
+      "season": "Season of Lent",
+      "week_start": "2026-05-03",
+      "is_sunday": false
+    },
+    "2026-05-07": {
+      "weekday": "Thursday",
+      "reading": "James 1:19-26",
+      "week_title": "Staying Close to God",
+      "sunday_label": "5th Sunday of Easter",
+      "season": "Season of Lent",
+      "week_start": "2026-05-03",
+      "is_sunday": false
+    },
+    "2026-05-08": {
+      "weekday": "Friday",
+      "reading": "Colossians 1:15-29",
+      "week_title": "Staying Close to God",
+      "sunday_label": "5th Sunday of Easter",
+      "season": "Season of Lent",
+      "week_start": "2026-05-03",
+      "is_sunday": false
+    },
+    "2026-05-09": {
+      "weekday": "Saturday",
+      "reading": "Ephesians 3:14-21",
+      "week_title": "Staying Close to God",
+      "sunday_label": "5th Sunday of Easter",
+      "season": "Season of Lent",
+      "week_start": "2026-05-03",
+      "is_sunday": false
+    },
+    "2026-05-10": {
+      "weekday": "Sunday",
+      "reading": "Psalm 128",
+      "week_title": "Love One Another",
+      "sunday_label": "6th Sunday of Easter",
+      "season": "Season of Lent",
+      "week_start": "2026-05-10",
+      "is_sunday": true
+    },
+    "2026-05-11": {
+      "weekday": "Monday",
+      "reading": "Romans 12:9-21",
+      "week_title": "Love One Another",
+      "sunday_label": "6th Sunday of Easter",
+      "season": "Season of Lent",
+      "week_start": "2026-05-10",
+      "is_sunday": false
+    },
+    "2026-05-12": {
+      "weekday": "Tuesday",
+      "reading": "Colossians 3:12-17",
+      "week_title": "Love One Another",
+      "sunday_label": "6th Sunday of Easter",
+      "season": "Season of Lent",
+      "week_start": "2026-05-10",
+      "is_sunday": false
+    },
+    "2026-05-13": {
+      "weekday": "Wednesday",
+      "reading": "Galatians 5:1-15",
+      "week_title": "Love One Another",
+      "sunday_label": "6th Sunday of Easter",
+      "season": "Season of Lent",
+      "week_start": "2026-05-10",
+      "is_sunday": false
+    },
+    "2026-05-14": {
+      "weekday": "Thursday",
+      "reading": "1 John 2:7-17",
+      "week_title": "Love One Another",
+      "sunday_label": "6th Sunday of Easter",
+      "season": "Season of Lent",
+      "week_start": "2026-05-10",
+      "is_sunday": false
+    },
+    "2026-05-15": {
+      "weekday": "Friday",
+      "reading": "1 John 3:1-18",
+      "week_title": "Love One Another",
+      "sunday_label": "6th Sunday of Easter",
+      "season": "Season of Lent",
+      "week_start": "2026-05-10",
+      "is_sunday": false
+    },
+    "2026-05-16": {
+      "weekday": "Saturday",
+      "reading": "1 John 4:7-21",
+      "week_title": "Love One Another",
+      "sunday_label": "6th Sunday of Easter",
+      "season": "Season of Lent",
+      "week_start": "2026-05-10",
+      "is_sunday": false
+    },
+    "2026-05-17": {
+      "weekday": "Sunday",
+      "reading": "Psalm 133",
+      "week_title": "That All May Be One",
+      "sunday_label": "7th Sunday of Easter",
+      "season": "Season of Lent",
+      "week_start": "2026-05-17",
+      "is_sunday": true
+    },
+    "2026-05-18": {
+      "weekday": "Monday",
+      "reading": "1 Peter 1:13-25",
+      "week_title": "That All May Be One",
+      "sunday_label": "7th Sunday of Easter",
+      "season": "Season of Lent",
+      "week_start": "2026-05-17",
+      "is_sunday": false
+    },
+    "2026-05-19": {
+      "weekday": "Tuesday",
+      "reading": "Titus 3:1-11",
+      "week_title": "That All May Be One",
+      "sunday_label": "7th Sunday of Easter",
+      "season": "Season of Lent",
+      "week_start": "2026-05-17",
+      "is_sunday": false
+    },
+    "2026-05-20": {
+      "weekday": "Wednesday",
+      "reading": "Philemon 1-25",
+      "week_title": "That All May Be One",
+      "sunday_label": "7th Sunday of Easter",
+      "season": "Season of Lent",
+      "week_start": "2026-05-17",
+      "is_sunday": false
+    },
+    "2026-05-21": {
+      "weekday": "Thursday",
+      "reading": "Hebrews 13:1-25",
+      "week_title": "That All May Be One",
+      "sunday_label": "7th Sunday of Easter",
+      "season": "Season of Lent",
+      "week_start": "2026-05-17",
+      "is_sunday": false
+    },
+    "2026-05-22": {
+      "weekday": "Friday",
+      "reading": "2 Timothy 1:1-14",
+      "week_title": "That All May Be One",
+      "sunday_label": "7th Sunday of Easter",
+      "season": "Season of Lent",
+      "week_start": "2026-05-17",
+      "is_sunday": false
+    },
+    "2026-05-23": {
+      "weekday": "Saturday",
+      "reading": "1 Thessalonians 1:2-10",
+      "week_title": "That All May Be One",
+      "sunday_label": "7th Sunday of Easter",
+      "season": "Season of Lent",
+      "week_start": "2026-05-17",
+      "is_sunday": false
+    },
+    "2026-05-24": {
+      "weekday": "Sunday",
+      "reading": "Psalm 104",
+      "week_title": "Life in the Spirit",
+      "sunday_label": "Pentecost Sunday",
+      "season": "Season of Lent",
+      "week_start": "2026-05-24",
+      "is_sunday": true
+    },
+    "2026-05-25": {
+      "weekday": "Monday",
+      "reading": "Ephesians 4:17-32",
+      "week_title": "Life in the Spirit",
+      "sunday_label": "Pentecost Sunday",
+      "season": "Season of Lent",
+      "week_start": "2026-05-24",
+      "is_sunday": false
+    },
+    "2026-05-26": {
+      "weekday": "Tuesday",
+      "reading": "Ephesians 3:14-21",
+      "week_title": "Life in the Spirit",
+      "sunday_label": "Pentecost Sunday",
+      "season": "Season of Lent",
+      "week_start": "2026-05-24",
+      "is_sunday": false
+    },
+    "2026-05-27": {
+      "weekday": "Wednesday",
+      "reading": "Ezekiel 39:21-29",
+      "week_title": "Life in the Spirit",
+      "sunday_label": "Pentecost Sunday",
+      "season": "Season of Lent",
+      "week_start": "2026-05-24",
+      "is_sunday": false
+    },
+    "2026-05-28": {
+      "weekday": "Thursday",
+      "reading": "2 Corinthians 1:3-11",
+      "week_title": "Life in the Spirit",
+      "sunday_label": "Pentecost Sunday",
+      "season": "Season of Lent",
+      "week_start": "2026-05-24",
+      "is_sunday": false
+    },
+    "2026-05-29": {
+      "weekday": "Friday",
+      "reading": "2 Corinthians 8:1-15",
+      "week_title": "Life in the Spirit",
+      "sunday_label": "Pentecost Sunday",
+      "season": "Season of Lent",
+      "week_start": "2026-05-24",
+      "is_sunday": false
+    },
+    "2026-05-30": {
+      "weekday": "Saturday",
+      "reading": "1 Corinthians 13:1-13",
+      "week_title": "Life in the Spirit",
+      "sunday_label": "Pentecost Sunday",
+      "season": "Season of Lent",
+      "week_start": "2026-05-24",
+      "is_sunday": false
+    },
+    "2026-05-31": {
+      "weekday": "Sunday",
+      "reading": "Psalm 80",
+      "week_title": "God in Three Persons",
+      "sunday_label": "Trinity Sunday: 1st Sunday after Pentecost",
+      "season": "Ordinary Time",
+      "week_start": "2026-05-31",
+      "is_sunday": true
+    },
+    "2026-06-01": {
+      "weekday": "Monday",
+      "reading": "Deuteronomy 6:4-25",
+      "week_title": "God in Three Persons",
+      "sunday_label": "Trinity Sunday: 1st Sunday after Pentecost",
+      "season": "Ordinary Time",
+      "week_start": "2026-05-31",
+      "is_sunday": false
+    },
+    "2026-06-02": {
+      "weekday": "Tuesday",
+      "reading": "John 5:19-29",
+      "week_title": "God in Three Persons",
+      "sunday_label": "Trinity Sunday: 1st Sunday after Pentecost",
+      "season": "Ordinary Time",
+      "week_start": "2026-05-31",
+      "is_sunday": false
+    },
+    "2026-06-03": {
+      "weekday": "Wednesday",
+      "reading": "1 Corinthians 12:1-13",
+      "week_title": "God in Three Persons",
+      "sunday_label": "Trinity Sunday: 1st Sunday after Pentecost",
+      "season": "Ordinary Time",
+      "week_start": "2026-05-31",
+      "is_sunday": false
+    },
+    "2026-06-04": {
+      "weekday": "Thursday",
+      "reading": "Ephesians 1:1-14",
+      "week_title": "God in Three Persons",
+      "sunday_label": "Trinity Sunday: 1st Sunday after Pentecost",
+      "season": "Ordinary Time",
+      "week_start": "2026-05-31",
+      "is_sunday": false
+    },
+    "2026-06-05": {
+      "weekday": "Friday",
+      "reading": "Colossians 1:1-14",
+      "week_title": "God in Three Persons",
+      "sunday_label": "Trinity Sunday: 1st Sunday after Pentecost",
+      "season": "Ordinary Time",
+      "week_start": "2026-05-31",
+      "is_sunday": false
+    },
+    "2026-06-06": {
+      "weekday": "Saturday",
+      "reading": "John 16:1-11",
+      "week_title": "God in Three Persons",
+      "sunday_label": "Trinity Sunday: 1st Sunday after Pentecost",
+      "season": "Ordinary Time",
+      "week_start": "2026-05-31",
+      "is_sunday": false
+    },
+    "2026-06-07": {
+      "weekday": "Sunday",
+      "reading": "Psalm 40",
+      "week_title": "Christ’s True Family",
+      "sunday_label": "Ordinary Time",
+      "season": "Ordinary Time",
+      "week_start": "2026-06-07",
+      "is_sunday": true
+    },
+    "2026-06-08": {
+      "weekday": "Monday",
+      "reading": "Hosea 6:1-6",
+      "week_title": "Christ’s True Family",
+      "sunday_label": "Ordinary Time",
+      "season": "Ordinary Time",
+      "week_start": "2026-06-07",
+      "is_sunday": false
+    },
+    "2026-06-09": {
+      "weekday": "Tuesday",
+      "reading": "Hosea 11:1-9",
+      "week_title": "Christ’s True Family",
+      "sunday_label": "Ordinary Time",
+      "season": "Ordinary Time",
+      "week_start": "2026-06-07",
+      "is_sunday": false
+    },
+    "2026-06-10": {
+      "weekday": "Wednesday",
+      "reading": "Matthew 13:53-58",
+      "week_title": "Christ’s True Family",
+      "sunday_label": "Ordinary Time",
+      "season": "Ordinary Time",
+      "week_start": "2026-06-07",
+      "is_sunday": false
+    },
+    "2026-06-11": {
+      "weekday": "Thursday",
+      "reading": "Matthew 21:12-17",
+      "week_title": "Christ’s True Family",
+      "sunday_label": "Ordinary Time",
+      "season": "Ordinary Time",
+      "week_start": "2026-06-07",
+      "is_sunday": false
+    },
+    "2026-06-12": {
+      "weekday": "Friday",
+      "reading": "John 17:20-26",
+      "week_title": "Christ’s True Family",
+      "sunday_label": "Ordinary Time",
+      "season": "Ordinary Time",
+      "week_start": "2026-06-07",
+      "is_sunday": false
+    },
+    "2026-06-13": {
+      "weekday": "Saturday",
+      "reading": "Matthew 12:46-50",
+      "week_title": "Christ’s True Family",
+      "sunday_label": "Ordinary Time",
+      "season": "Ordinary Time",
+      "week_start": "2026-06-07",
+      "is_sunday": false
+    },
+    "2026-06-14": {
+      "weekday": "Sunday",
+      "reading": "Psalm 84",
+      "week_title": "Signs of God’s Kingdom",
+      "sunday_label": "Ordinary Time",
+      "season": "Ordinary Time",
+      "week_start": "2026-06-14",
+      "is_sunday": true
+    },
+    "2026-06-15": {
+      "weekday": "Monday",
+      "reading": "Matthew 3:1-10",
+      "week_title": "Signs of God’s Kingdom",
+      "sunday_label": "Ordinary Time",
+      "season": "Ordinary Time",
+      "week_start": "2026-06-14",
+      "is_sunday": false
+    },
+    "2026-06-16": {
+      "weekday": "Tuesday",
+      "reading": "Matthew 18:21-35",
+      "week_title": "Signs of God’s Kingdom",
+      "sunday_label": "Ordinary Time",
+      "season": "Ordinary Time",
+      "week_start": "2026-06-14",
+      "is_sunday": false
+    },
+    "2026-06-17": {
+      "weekday": "Wednesday",
+      "reading": "Matthew 20:1-16",
+      "week_title": "Signs of God’s Kingdom",
+      "sunday_label": "Ordinary Time",
+      "season": "Ordinary Time",
+      "week_start": "2026-06-14",
+      "is_sunday": false
+    },
+    "2026-06-18": {
+      "weekday": "Thursday",
+      "reading": "Matthew 20:20-28",
+      "week_title": "Signs of God’s Kingdom",
+      "sunday_label": "Ordinary Time",
+      "season": "Ordinary Time",
+      "week_start": "2026-06-14",
+      "is_sunday": false
+    },
+    "2026-06-19": {
+      "weekday": "Friday",
+      "reading": "Luke 9:46-62",
+      "week_title": "Signs of God’s Kingdom",
+      "sunday_label": "Ordinary Time",
+      "season": "Ordinary Time",
+      "week_start": "2026-06-14",
+      "is_sunday": false
+    },
+    "2026-06-20": {
+      "weekday": "Saturday",
+      "reading": "Acts 7:54-8:8",
+      "week_title": "Signs of God’s Kingdom",
+      "sunday_label": "Ordinary Time",
+      "season": "Ordinary Time",
+      "week_start": "2026-06-14",
+      "is_sunday": false
+    },
+    "2026-06-21": {
+      "weekday": "Sunday",
+      "reading": "Psalm 8",
+      "week_title": "God Calls & Provides",
+      "sunday_label": "Ordinary Time",
+      "season": "Ordinary Time",
+      "week_start": "2026-06-21",
+      "is_sunday": true
+    },
+    "2026-06-22": {
+      "weekday": "Monday",
+      "reading": "1 Corinthians 2:1-13",
+      "week_title": "God Calls & Provides",
+      "sunday_label": "Ordinary Time",
+      "season": "Ordinary Time",
+      "week_start": "2026-06-21",
+      "is_sunday": false
+    },
+    "2026-06-23": {
+      "weekday": "Tuesday",
+      "reading": "Matthew 9:35-10:15",
+      "week_title": "God Calls & Provides",
+      "sunday_label": "Ordinary Time",
+      "season": "Ordinary Time",
+      "week_start": "2026-06-21",
+      "is_sunday": false
+    },
+    "2026-06-24": {
+      "weekday": "Wednesday",
+      "reading": "Matthew 10:16-23",
+      "week_title": "God Calls & Provides",
+      "sunday_label": "Ordinary Time",
+      "season": "Ordinary Time",
+      "week_start": "2026-06-21",
+      "is_sunday": false
+    },
+    "2026-06-25": {
+      "weekday": "Thursday",
+      "reading": "Matthew 10:24-33",
+      "week_title": "God Calls & Provides",
+      "sunday_label": "Ordinary Time",
+      "season": "Ordinary Time",
+      "week_start": "2026-06-21",
+      "is_sunday": false
+    },
+    "2026-06-26": {
+      "weekday": "Friday",
+      "reading": "Matthew 10:34-42",
+      "week_title": "God Calls & Provides",
+      "sunday_label": "Ordinary Time",
+      "season": "Ordinary Time",
+      "week_start": "2026-06-21",
+      "is_sunday": false
+    },
+    "2026-06-27": {
+      "weekday": "Saturday",
+      "reading": "John 21:15-23",
+      "week_title": "God Calls & Provides",
+      "sunday_label": "Ordinary Time",
+      "season": "Ordinary Time",
+      "week_start": "2026-06-21",
+      "is_sunday": false
+    },
+    "2026-06-28": {
+      "weekday": "Sunday",
+      "reading": "Psalm 28",
+      "week_title": "Consequences of Following Jesus Christ",
+      "sunday_label": "Ordinary Time",
+      "season": "Ordinary Time",
+      "week_start": "2026-06-28",
+      "is_sunday": true
+    },
+    "2026-06-29": {
+      "weekday": "Monday",
+      "reading": "Matthew 12:46-50",
+      "week_title": "Consequences of Following Jesus Christ",
+      "sunday_label": "Ordinary Time",
+      "season": "Ordinary Time",
+      "week_start": "2026-06-28",
+      "is_sunday": false
+    },
+    "2026-06-30": {
+      "weekday": "Tuesday",
+      "reading": "Luke 14:25-33",
+      "week_title": "Consequences of Following Jesus Christ",
+      "sunday_label": "Ordinary Time",
+      "season": "Ordinary Time",
+      "week_start": "2026-06-28",
+      "is_sunday": false
+    },
+    "2026-07-01": {
+      "weekday": "Wednesday",
+      "reading": "Luke 22:24-30",
+      "week_title": "Consequences of Following Jesus Christ",
+      "sunday_label": "Ordinary Time",
+      "season": "Ordinary Time",
+      "week_start": "2026-06-28",
+      "is_sunday": false
+    },
+    "2026-07-02": {
+      "weekday": "Thursday",
+      "reading": "Luke 9:57-62",
+      "week_title": "Consequences of Following Jesus Christ",
+      "sunday_label": "Ordinary Time",
+      "season": "Ordinary Time",
+      "week_start": "2026-06-28",
+      "is_sunday": false
+    },
+    "2026-07-03": {
+      "weekday": "Friday",
+      "reading": "Joshua 24:16-28",
+      "week_title": "Consequences of Following Jesus Christ",
+      "sunday_label": "Ordinary Time",
+      "season": "Ordinary Time",
+      "week_start": "2026-06-28",
+      "is_sunday": false
+    },
+    "2026-07-04": {
+      "weekday": "Saturday",
+      "reading": "Romans 14:13-23",
+      "week_title": "Consequences of Following Jesus Christ",
+      "sunday_label": "Ordinary Time",
+      "season": "Ordinary Time",
+      "week_start": "2026-06-28",
+      "is_sunday": false
+    },
+    "2026-07-05": {
+      "weekday": "Sunday",
+      "reading": "Psalm 35",
+      "week_title": "A Disciple’s Mission & Reward",
+      "sunday_label": "Ordinary Time",
+      "season": "Ordinary Time",
+      "week_start": "2026-07-05",
+      "is_sunday": true
+    },
+    "2026-07-06": {
+      "weekday": "Monday",
+      "reading": "Matthew 10:1-15",
+      "week_title": "A Disciple’s Mission & Reward",
+      "sunday_label": "Ordinary Time",
+      "season": "Ordinary Time",
+      "week_start": "2026-07-05",
+      "is_sunday": false
+    },
+    "2026-07-07": {
+      "weekday": "Tuesday",
+      "reading": "Romans 1:1-7",
+      "week_title": "A Disciple’s Mission & Reward",
+      "sunday_label": "Ordinary Time",
+      "season": "Ordinary Time",
+      "week_start": "2026-07-05",
+      "is_sunday": false
+    },
+    "2026-07-08": {
+      "weekday": "Wednesday",
+      "reading": "John 1:6-13",
+      "week_title": "A Disciple’s Mission & Reward",
+      "sunday_label": "Ordinary Time",
+      "season": "Ordinary Time",
+      "week_start": "2026-07-05",
+      "is_sunday": false
+    },
+    "2026-07-09": {
+      "weekday": "Thursday",
+      "reading": "Colossians 1:9-23",
+      "week_title": "A Disciple’s Mission & Reward",
+      "sunday_label": "Ordinary Time",
+      "season": "Ordinary Time",
+      "week_start": "2026-07-05",
+      "is_sunday": false
+    },
+    "2026-07-10": {
+      "weekday": "Friday",
+      "reading": "Colossians 1:24-29",
+      "week_title": "A Disciple’s Mission & Reward",
+      "sunday_label": "Ordinary Time",
+      "season": "Ordinary Time",
+      "week_start": "2026-07-05",
+      "is_sunday": false
+    },
+    "2026-07-11": {
+      "weekday": "Saturday",
+      "reading": "1 Peter 1:1-9",
+      "week_title": "A Disciple’s Mission & Reward",
+      "sunday_label": "Ordinary Time",
+      "season": "Ordinary Time",
+      "week_start": "2026-07-05",
+      "is_sunday": false
+    },
+    "2026-07-12": {
+      "weekday": "Sunday",
+      "reading": "Psalm 46",
+      "week_title": "God’s Plan for the Church",
+      "sunday_label": "Ordinary Time",
+      "season": "Ordinary Time",
+      "week_start": "2026-07-12",
+      "is_sunday": true
+    },
+    "2026-07-13": {
+      "weekday": "Monday",
+      "reading": "Isaiah 55:1-13",
+      "week_title": "God’s Plan for the Church",
+      "sunday_label": "Ordinary Time",
+      "season": "Ordinary Time",
+      "week_start": "2026-07-12",
+      "is_sunday": false
+    },
+    "2026-07-14": {
+      "weekday": "Tuesday",
+      "reading": "Isaiah 1:10-17",
+      "week_title": "God’s Plan for the Church",
+      "sunday_label": "Ordinary Time",
+      "season": "Ordinary Time",
+      "week_start": "2026-07-12",
+      "is_sunday": false
+    },
+    "2026-07-15": {
+      "weekday": "Wednesday",
+      "reading": "Isaiah 1:21-26",
+      "week_title": "God’s Plan for the Church",
+      "sunday_label": "Ordinary Time",
+      "season": "Ordinary Time",
+      "week_start": "2026-07-12",
+      "is_sunday": false
+    },
+    "2026-07-16": {
+      "weekday": "Thursday",
+      "reading": "Romans 15:1-13",
+      "week_title": "God’s Plan for the Church",
+      "sunday_label": "Ordinary Time",
+      "season": "Ordinary Time",
+      "week_start": "2026-07-12",
+      "is_sunday": false
+    },
+    "2026-07-17": {
+      "weekday": "Friday",
+      "reading": "Ephesians 4:1-16",
+      "week_title": "God’s Plan for the Church",
+      "sunday_label": "Ordinary Time",
+      "season": "Ordinary Time",
+      "week_start": "2026-07-12",
+      "is_sunday": false
+    },
+    "2026-07-18": {
+      "weekday": "Saturday",
+      "reading": "John 17:20-26",
+      "week_title": "God’s Plan for the Church",
+      "sunday_label": "Ordinary Time",
+      "season": "Ordinary Time",
+      "week_start": "2026-07-12",
+      "is_sunday": false
+    },
+    "2026-07-19": {
+      "weekday": "Sunday",
+      "reading": "Psalm 62",
+      "week_title": "Listening & Obeying",
+      "sunday_label": "Ordinary Time",
+      "season": "Ordinary Time",
+      "week_start": "2026-07-19",
+      "is_sunday": true
+    },
+    "2026-07-20": {
+      "weekday": "Monday",
+      "reading": "Mark 9:1-8",
+      "week_title": "Listening & Obeying",
+      "sunday_label": "Ordinary Time",
+      "season": "Ordinary Time",
+      "week_start": "2026-07-19",
+      "is_sunday": false
+    },
+    "2026-07-21": {
+      "weekday": "Tuesday",
+      "reading": "James 1:19-27",
+      "week_title": "Listening & Obeying",
+      "sunday_label": "Ordinary Time",
+      "season": "Ordinary Time",
+      "week_start": "2026-07-19",
+      "is_sunday": false
+    },
+    "2026-07-22": {
+      "weekday": "Wednesday",
+      "reading": "James 4:1-10",
+      "week_title": "Listening & Obeying",
+      "sunday_label": "Ordinary Time",
+      "season": "Ordinary Time",
+      "week_start": "2026-07-19",
+      "is_sunday": false
+    },
+    "2026-07-23": {
+      "weekday": "Thursday",
+      "reading": "Romans 6:15-23",
+      "week_title": "Listening & Obeying",
+      "sunday_label": "Ordinary Time",
+      "season": "Ordinary Time",
+      "week_start": "2026-07-19",
+      "is_sunday": false
+    },
+    "2026-07-24": {
+      "weekday": "Friday",
+      "reading": "Philippians 2:12-18",
+      "week_title": "Listening & Obeying",
+      "sunday_label": "Ordinary Time",
+      "season": "Ordinary Time",
+      "week_start": "2026-07-19",
+      "is_sunday": false
+    },
+    "2026-07-25": {
+      "weekday": "Saturday",
+      "reading": "John 14:15-24",
+      "week_title": "Listening & Obeying",
+      "sunday_label": "Ordinary Time",
+      "season": "Ordinary Time",
+      "week_start": "2026-07-19",
+      "is_sunday": false
+    },
+    "2026-07-26": {
+      "weekday": "Sunday",
+      "reading": "Psalm 63",
+      "week_title": "God’s Ability to Provide",
+      "sunday_label": "Ordinary Time",
+      "season": "Ordinary Time",
+      "week_start": "2026-07-26",
+      "is_sunday": true
+    },
+    "2026-07-27": {
+      "weekday": "Monday",
+      "reading": "Genesis 22:1-14",
+      "week_title": "God’s Ability to Provide",
+      "sunday_label": "Ordinary Time",
+      "season": "Ordinary Time",
+      "week_start": "2026-07-26",
+      "is_sunday": false
+    },
+    "2026-07-28": {
+      "weekday": "Tuesday",
+      "reading": "1 Timothy 6:11-19",
+      "week_title": "God’s Ability to Provide",
+      "sunday_label": "Ordinary Time",
+      "season": "Ordinary Time",
+      "week_start": "2026-07-26",
+      "is_sunday": false
+    },
+    "2026-07-29": {
+      "weekday": "Wednesday",
+      "reading": "Psalm 68:1-10",
+      "week_title": "God’s Ability to Provide",
+      "sunday_label": "Ordinary Time",
+      "season": "Ordinary Time",
+      "week_start": "2026-07-26",
+      "is_sunday": false
+    },
+    "2026-07-30": {
+      "weekday": "Thursday",
+      "reading": "John 10:1-18",
+      "week_title": "God’s Ability to Provide",
+      "sunday_label": "Ordinary Time",
+      "season": "Ordinary Time",
+      "week_start": "2026-07-26",
+      "is_sunday": false
+    },
+    "2026-07-31": {
+      "weekday": "Friday",
+      "reading": "Matthew 7:1-12",
+      "week_title": "God’s Ability to Provide",
+      "sunday_label": "Ordinary Time",
+      "season": "Ordinary Time",
+      "week_start": "2026-07-26",
+      "is_sunday": false
+    },
+    "2026-08-01": {
+      "weekday": "Saturday",
+      "reading": "1 Peter 5:1-11",
+      "week_title": "God’s Ability to Provide",
+      "sunday_label": "Ordinary Time",
+      "season": "Ordinary Time",
+      "week_start": "2026-07-26",
+      "is_sunday": false
+    },
+    "2026-08-02": {
+      "weekday": "Sunday",
+      "reading": "Psalm 73",
+      "week_title": "Establishing the Right Priorities",
+      "sunday_label": "Ordinary Time",
+      "season": "Ordinary Time",
+      "week_start": "2026-08-02",
+      "is_sunday": true
+    },
+    "2026-08-03": {
+      "weekday": "Monday",
+      "reading": "Luke 10:38-42",
+      "week_title": "Establishing the Right Priorities",
+      "sunday_label": "Ordinary Time",
+      "season": "Ordinary Time",
+      "week_start": "2026-08-02",
+      "is_sunday": false
+    },
+    "2026-08-04": {
+      "weekday": "Tuesday",
+      "reading": "Romans 8:18-25",
+      "week_title": "Establishing the Right Priorities",
+      "sunday_label": "Ordinary Time",
+      "season": "Ordinary Time",
+      "week_start": "2026-08-02",
+      "is_sunday": false
+    },
+    "2026-08-05": {
+      "weekday": "Wednesday",
+      "reading": "2 Corinthians 6:1-13",
+      "week_title": "Establishing the Right Priorities",
+      "sunday_label": "Ordinary Time",
+      "season": "Ordinary Time",
+      "week_start": "2026-08-02",
+      "is_sunday": false
+    },
+    "2026-08-06": {
+      "weekday": "Thursday",
+      "reading": "Revelation 19:1-8",
+      "week_title": "Establishing the Right Priorities",
+      "sunday_label": "Ordinary Time",
+      "season": "Ordinary Time",
+      "week_start": "2026-08-02",
+      "is_sunday": false
+    },
+    "2026-08-07": {
+      "weekday": "Friday",
+      "reading": "Hebrews 10:19-39",
+      "week_title": "Establishing the Right Priorities",
+      "sunday_label": "Ordinary Time",
+      "season": "Ordinary Time",
+      "week_start": "2026-08-02",
+      "is_sunday": false
+    },
+    "2026-08-08": {
+      "weekday": "Saturday",
+      "reading": "Colossians 3:5-17",
+      "week_title": "Establishing the Right Priorities",
+      "sunday_label": "Ordinary Time",
+      "season": "Ordinary Time",
+      "week_start": "2026-08-02",
+      "is_sunday": false
+    },
+    "2026-08-09": {
+      "weekday": "Sunday",
+      "reading": "Psalm 127",
+      "week_title": "Facing Life’s Uncertainties",
+      "sunday_label": "Ordinary Time",
+      "season": "Ordinary Time",
+      "week_start": "2026-08-09",
+      "is_sunday": true
+    },
+    "2026-08-10": {
+      "weekday": "Monday",
+      "reading": "Isaiah 54:9-17",
+      "week_title": "Facing Life’s Uncertainties",
+      "sunday_label": "Ordinary Time",
+      "season": "Ordinary Time",
+      "week_start": "2026-08-09",
+      "is_sunday": false
+    },
+    "2026-08-11": {
+      "weekday": "Tuesday",
+      "reading": "Hebrews 10:1-10",
+      "week_title": "Facing Life’s Uncertainties",
+      "sunday_label": "Ordinary Time",
+      "season": "Ordinary Time",
+      "week_start": "2026-08-09",
+      "is_sunday": false
+    },
+    "2026-08-12": {
+      "weekday": "Wednesday",
+      "reading": "2 Peter 1:1-11",
+      "week_title": "Facing Life’s Uncertainties",
+      "sunday_label": "Ordinary Time",
+      "season": "Ordinary Time",
+      "week_start": "2026-08-09",
+      "is_sunday": false
+    },
+    "2026-08-13": {
+      "weekday": "Thursday",
+      "reading": "1 Peter 3:13-22",
+      "week_title": "Facing Life’s Uncertainties",
+      "sunday_label": "Ordinary Time",
+      "season": "Ordinary Time",
+      "week_start": "2026-08-09",
+      "is_sunday": false
+    },
+    "2026-08-14": {
+      "weekday": "Friday",
+      "reading": "1 Peter 4:12-19",
+      "week_title": "Facing Life’s Uncertainties",
+      "sunday_label": "Ordinary Time",
+      "season": "Ordinary Time",
+      "week_start": "2026-08-09",
+      "is_sunday": false
+    },
+    "2026-08-15": {
+      "weekday": "Saturday",
+      "reading": "John 17:1-19",
+      "week_title": "Facing Life’s Uncertainties",
+      "sunday_label": "Ordinary Time",
+      "season": "Ordinary Time",
+      "week_start": "2026-08-09",
+      "is_sunday": false
+    },
+    "2026-08-16": {
+      "weekday": "Sunday",
+      "reading": "Psalm 145",
+      "week_title": "The Mystery of God’s Gifts",
+      "sunday_label": "Ordinary Time",
+      "season": "Ordinary Time",
+      "week_start": "2026-08-16",
+      "is_sunday": true
+    },
+    "2026-08-17": {
+      "weekday": "Monday",
+      "reading": "Matthew 8:1-4",
+      "week_title": "The Mystery of God’s Gifts",
+      "sunday_label": "Ordinary Time",
+      "season": "Ordinary Time",
+      "week_start": "2026-08-16",
+      "is_sunday": false
+    },
+    "2026-08-18": {
+      "weekday": "Tuesday",
+      "reading": "Matthew 8:5-13",
+      "week_title": "The Mystery of God’s Gifts",
+      "sunday_label": "Ordinary Time",
+      "season": "Ordinary Time",
+      "week_start": "2026-08-16",
+      "is_sunday": false
+    },
+    "2026-08-19": {
+      "weekday": "Wednesday",
+      "reading": "Matthew 8:14-17",
+      "week_title": "The Mystery of God’s Gifts",
+      "sunday_label": "Ordinary Time",
+      "season": "Ordinary Time",
+      "week_start": "2026-08-16",
+      "is_sunday": false
+    },
+    "2026-08-20": {
+      "weekday": "Thursday",
+      "reading": "Matthew 9:18-26",
+      "week_title": "The Mystery of God’s Gifts",
+      "sunday_label": "Ordinary Time",
+      "season": "Ordinary Time",
+      "week_start": "2026-08-16",
+      "is_sunday": false
+    },
+    "2026-08-21": {
+      "weekday": "Friday",
+      "reading": "Matthew 9:27-34",
+      "week_title": "The Mystery of God’s Gifts",
+      "sunday_label": "Ordinary Time",
+      "season": "Ordinary Time",
+      "week_start": "2026-08-16",
+      "is_sunday": false
+    },
+    "2026-08-22": {
+      "weekday": "Saturday",
+      "reading": "Mark 10:46-52",
+      "week_title": "The Mystery of God’s Gifts",
+      "sunday_label": "Ordinary Time",
+      "season": "Ordinary Time",
+      "week_start": "2026-08-16",
+      "is_sunday": false
+    },
+    "2026-08-23": {
+      "weekday": "Sunday",
+      "reading": "Psalm 18:1-19",
+      "week_title": "The Centrality of Christ",
+      "sunday_label": "Ordinary Time",
+      "season": "Ordinary Time",
+      "week_start": "2026-08-23",
+      "is_sunday": true
+    },
+    "2026-08-24": {
+      "weekday": "Monday",
+      "reading": "John 1:19-28",
+      "week_title": "The Centrality of Christ",
+      "sunday_label": "Ordinary Time",
+      "season": "Ordinary Time",
+      "week_start": "2026-08-23",
+      "is_sunday": false
+    },
+    "2026-08-25": {
+      "weekday": "Tuesday",
+      "reading": "John 14:1-11",
+      "week_title": "The Centrality of Christ",
+      "sunday_label": "Ordinary Time",
+      "season": "Ordinary Time",
+      "week_start": "2026-08-23",
+      "is_sunday": false
+    },
+    "2026-08-26": {
+      "weekday": "Wednesday",
+      "reading": "Colossians 1:15-23",
+      "week_title": "The Centrality of Christ",
+      "sunday_label": "Ordinary Time",
+      "season": "Ordinary Time",
+      "week_start": "2026-08-23",
+      "is_sunday": false
+    },
+    "2026-08-27": {
+      "weekday": "Thursday",
+      "reading": "John 6:66-71",
+      "week_title": "The Centrality of Christ",
+      "sunday_label": "Ordinary Time",
+      "season": "Ordinary Time",
+      "week_start": "2026-08-23",
+      "is_sunday": false
+    },
+    "2026-08-28": {
+      "weekday": "Friday",
+      "reading": "John 12:20-36",
+      "week_title": "The Centrality of Christ",
+      "sunday_label": "Ordinary Time",
+      "season": "Ordinary Time",
+      "week_start": "2026-08-23",
+      "is_sunday": false
+    },
+    "2026-08-29": {
+      "weekday": "Saturday",
+      "reading": "John 11:1-16",
+      "week_title": "The Centrality of Christ",
+      "sunday_label": "Ordinary Time",
+      "season": "Ordinary Time",
+      "week_start": "2026-08-23",
+      "is_sunday": false
+    },
+    "2026-08-30": {
+      "weekday": "Sunday",
+      "reading": "Psalm 1",
+      "week_title": "True Discipleship",
+      "sunday_label": "Ordinary Time",
+      "season": "Ordinary Time",
+      "week_start": "2026-08-30",
+      "is_sunday": true
+    },
+    "2026-08-31": {
+      "weekday": "Monday",
+      "reading": "Philippians 2:1-8",
+      "week_title": "True Discipleship",
+      "sunday_label": "Ordinary Time",
+      "season": "Ordinary Time",
+      "week_start": "2026-08-30",
+      "is_sunday": false
+    },
+    "2026-09-01": {
+      "weekday": "Tuesday",
+      "reading": "Galatians 5:16-24",
+      "week_title": "True Discipleship",
+      "sunday_label": "Ordinary Time",
+      "season": "Ordinary Time",
+      "week_start": "2026-08-30",
+      "is_sunday": false
+    },
+    "2026-09-02": {
+      "weekday": "Wednesday",
+      "reading": "Matthew 5:1-11",
+      "week_title": "True Discipleship",
+      "sunday_label": "Ordinary Time",
+      "season": "Ordinary Time",
+      "week_start": "2026-08-30",
+      "is_sunday": false
+    },
+    "2026-09-03": {
+      "weekday": "Thursday",
+      "reading": "Matthew 5:12-16",
+      "week_title": "True Discipleship",
+      "sunday_label": "Ordinary Time",
+      "season": "Ordinary Time",
+      "week_start": "2026-08-30",
+      "is_sunday": false
+    },
+    "2026-09-04": {
+      "weekday": "Friday",
+      "reading": "Matthew 7:21-28",
+      "week_title": "True Discipleship",
+      "sunday_label": "Ordinary Time",
+      "season": "Ordinary Time",
+      "week_start": "2026-08-30",
+      "is_sunday": false
+    },
+    "2026-09-05": {
+      "weekday": "Saturday",
+      "reading": "Matthew 5:43-48",
+      "week_title": "True Discipleship",
+      "sunday_label": "Ordinary Time",
+      "season": "Ordinary Time",
+      "week_start": "2026-08-30",
+      "is_sunday": false
+    },
+    "2026-09-06": {
+      "weekday": "Sunday",
+      "reading": "Psalm 130",
+      "week_title": "Reconciliation",
+      "sunday_label": "Ordinary Time",
+      "season": "Ordinary Time",
+      "week_start": "2026-09-06",
+      "is_sunday": true
+    },
+    "2026-09-07": {
+      "weekday": "Monday",
+      "reading": "2 Corinthians 5:16-21",
+      "week_title": "Reconciliation",
+      "sunday_label": "Ordinary Time",
+      "season": "Ordinary Time",
+      "week_start": "2026-09-06",
+      "is_sunday": false
+    },
+    "2026-09-08": {
+      "weekday": "Tuesday",
+      "reading": "Romans 5:1-11",
+      "week_title": "Reconciliation",
+      "sunday_label": "Ordinary Time",
+      "season": "Ordinary Time",
+      "week_start": "2026-09-06",
+      "is_sunday": false
+    },
+    "2026-09-09": {
+      "weekday": "Wednesday",
+      "reading": "2 Corinthians 13:1-12",
+      "week_title": "Reconciliation",
+      "sunday_label": "Ordinary Time",
+      "season": "Ordinary Time",
+      "week_start": "2026-09-06",
+      "is_sunday": false
+    },
+    "2026-09-10": {
+      "weekday": "Thursday",
+      "reading": "Acts 10:34-43",
+      "week_title": "Reconciliation",
+      "sunday_label": "Ordinary Time",
+      "season": "Ordinary Time",
+      "week_start": "2026-09-06",
+      "is_sunday": false
+    },
+    "2026-09-11": {
+      "weekday": "Friday",
+      "reading": "Luke 6:37-42",
+      "week_title": "Reconciliation",
+      "sunday_label": "Ordinary Time",
+      "season": "Ordinary Time",
+      "week_start": "2026-09-06",
+      "is_sunday": false
+    },
+    "2026-09-12": {
+      "weekday": "Saturday",
+      "reading": "Luke 17:1-6",
+      "week_title": "Reconciliation",
+      "sunday_label": "Ordinary Time",
+      "season": "Ordinary Time",
+      "week_start": "2026-09-06",
+      "is_sunday": false
+    },
+    "2026-09-13": {
+      "weekday": "Sunday",
+      "reading": "Psalm 141",
+      "week_title": "God’s Unlimited Grace",
+      "sunday_label": "Ordinary Time",
+      "season": "Ordinary Time",
+      "week_start": "2026-09-13",
+      "is_sunday": true
+    },
+    "2026-09-14": {
+      "weekday": "Monday",
+      "reading": "Colossians 2:8-15",
+      "week_title": "God’s Unlimited Grace",
+      "sunday_label": "Ordinary Time",
+      "season": "Ordinary Time",
+      "week_start": "2026-09-13",
+      "is_sunday": false
+    },
+    "2026-09-15": {
+      "weekday": "Tuesday",
+      "reading": "Ephesians 2:1-10",
+      "week_title": "God’s Unlimited Grace",
+      "sunday_label": "Ordinary Time",
+      "season": "Ordinary Time",
+      "week_start": "2026-09-13",
+      "is_sunday": false
+    },
+    "2026-09-16": {
+      "weekday": "Wednesday",
+      "reading": "Romans 6:1-14",
+      "week_title": "God’s Unlimited Grace",
+      "sunday_label": "Ordinary Time",
+      "season": "Ordinary Time",
+      "week_start": "2026-09-13",
+      "is_sunday": false
+    },
+    "2026-09-17": {
+      "weekday": "Thursday",
+      "reading": "Romans 8:1-11",
+      "week_title": "God’s Unlimited Grace",
+      "sunday_label": "Ordinary Time",
+      "season": "Ordinary Time",
+      "week_start": "2026-09-13",
+      "is_sunday": false
+    },
+    "2026-09-18": {
+      "weekday": "Friday",
+      "reading": "2 Timothy 2:1-13",
+      "week_title": "God’s Unlimited Grace",
+      "sunday_label": "Ordinary Time",
+      "season": "Ordinary Time",
+      "week_start": "2026-09-13",
+      "is_sunday": false
+    },
+    "2026-09-19": {
+      "weekday": "Saturday",
+      "reading": "John 8:1-11",
+      "week_title": "God’s Unlimited Grace",
+      "sunday_label": "Ordinary Time",
+      "season": "Ordinary Time",
+      "week_start": "2026-09-13",
+      "is_sunday": false
+    },
+    "2026-09-20": {
+      "weekday": "Sunday",
+      "reading": "Psalm 3",
+      "week_title": "Good Stewards",
+      "sunday_label": "Ordinary Time",
+      "season": "Ordinary Time",
+      "week_start": "2026-09-20",
+      "is_sunday": true
+    },
+    "2026-09-21": {
+      "weekday": "Monday",
+      "reading": "1 Corinthians 4:1-7",
+      "week_title": "Good Stewards",
+      "sunday_label": "Ordinary Time",
+      "season": "Ordinary Time",
+      "week_start": "2026-09-20",
+      "is_sunday": false
+    },
+    "2026-09-22": {
+      "weekday": "Tuesday",
+      "reading": "1 Corinthians 4:8-13",
+      "week_title": "Good Stewards",
+      "sunday_label": "Ordinary Time",
+      "season": "Ordinary Time",
+      "week_start": "2026-09-20",
+      "is_sunday": false
+    },
+    "2026-09-23": {
+      "weekday": "Wednesday",
+      "reading": "1 Thessalonians 1:1-10",
+      "week_title": "Good Stewards",
+      "sunday_label": "Ordinary Time",
+      "season": "Ordinary Time",
+      "week_start": "2026-09-20",
+      "is_sunday": false
+    },
+    "2026-09-24": {
+      "weekday": "Thursday",
+      "reading": "2 Thessalonians 1:1-4",
+      "week_title": "Good Stewards",
+      "sunday_label": "Ordinary Time",
+      "season": "Ordinary Time",
+      "week_start": "2026-09-20",
+      "is_sunday": false
+    },
+    "2026-09-25": {
+      "weekday": "Friday",
+      "reading": "Luke 12:35-40",
+      "week_title": "Good Stewards",
+      "sunday_label": "Ordinary Time",
+      "season": "Ordinary Time",
+      "week_start": "2026-09-20",
+      "is_sunday": false
+    },
+    "2026-09-26": {
+      "weekday": "Saturday",
+      "reading": "Luke 12:41-48",
+      "week_title": "Good Stewards",
+      "sunday_label": "Ordinary Time",
+      "season": "Ordinary Time",
+      "week_start": "2026-09-20",
+      "is_sunday": false
+    },
+    "2026-09-27": {
+      "weekday": "Sunday",
+      "reading": "Psalm 33",
+      "week_title": "Who Enters God’s Kingdom?",
+      "sunday_label": "Ordinary Time",
+      "season": "Ordinary Time",
+      "week_start": "2026-09-27",
+      "is_sunday": true
+    },
+    "2026-09-28": {
+      "weekday": "Monday",
+      "reading": "Matthew 10:40-42",
+      "week_title": "Who Enters God’s Kingdom?",
+      "sunday_label": "Ordinary Time",
+      "season": "Ordinary Time",
+      "week_start": "2026-09-27",
+      "is_sunday": false
+    },
+    "2026-09-29": {
+      "weekday": "Tuesday",
+      "reading": "Matthew 12:22-37",
+      "week_title": "Who Enters God’s Kingdom?",
+      "sunday_label": "Ordinary Time",
+      "season": "Ordinary Time",
+      "week_start": "2026-09-27",
+      "is_sunday": false
+    },
+    "2026-09-30": {
+      "weekday": "Wednesday",
+      "reading": "Matthew 12:46-50",
+      "week_title": "Who Enters God’s Kingdom?",
+      "sunday_label": "Ordinary Time",
+      "season": "Ordinary Time",
+      "week_start": "2026-09-27",
+      "is_sunday": false
+    },
+    "2026-10-01": {
+      "weekday": "Thursday",
+      "reading": "Luke 18:1-8",
+      "week_title": "Who Enters God’s Kingdom?",
+      "sunday_label": "Ordinary Time",
+      "season": "Ordinary Time",
+      "week_start": "2026-09-27",
+      "is_sunday": false
+    },
+    "2026-10-02": {
+      "weekday": "Friday",
+      "reading": "Luke 18:9-14",
+      "week_title": "Who Enters God’s Kingdom?",
+      "sunday_label": "Ordinary Time",
+      "season": "Ordinary Time",
+      "week_start": "2026-09-27",
+      "is_sunday": false
+    },
+    "2026-10-03": {
+      "weekday": "Saturday",
+      "reading": "Romans 8:31-39",
+      "week_title": "Who Enters God’s Kingdom?",
+      "sunday_label": "Ordinary Time",
+      "season": "Ordinary Time",
+      "week_start": "2026-09-27",
+      "is_sunday": false
+    },
+    "2026-10-04": {
+      "weekday": "Sunday",
+      "reading": "Psalm 92",
+      "week_title": "Faithful & Obedient",
+      "sunday_label": "Ordinary Time",
+      "season": "Ordinary Time",
+      "week_start": "2026-10-04",
+      "is_sunday": true
+    },
+    "2026-10-05": {
+      "weekday": "Monday",
+      "reading": "Hebrews 11:1-16",
+      "week_title": "Faithful & Obedient",
+      "sunday_label": "Ordinary Time",
+      "season": "Ordinary Time",
+      "week_start": "2026-10-04",
+      "is_sunday": false
+    },
+    "2026-10-06": {
+      "weekday": "Tuesday",
+      "reading": "Acts 8:1-8",
+      "week_title": "Faithful & Obedient",
+      "sunday_label": "Ordinary Time",
+      "season": "Ordinary Time",
+      "week_start": "2026-10-04",
+      "is_sunday": false
+    },
+    "2026-10-07": {
+      "weekday": "Wednesday",
+      "reading": "Acts 11:19-26",
+      "week_title": "Faithful & Obedient",
+      "sunday_label": "Ordinary Time",
+      "season": "Ordinary Time",
+      "week_start": "2026-10-04",
+      "is_sunday": false
+    },
+    "2026-10-08": {
+      "weekday": "Thursday",
+      "reading": "Matthew 21:28-32",
+      "week_title": "Faithful & Obedient",
+      "sunday_label": "Ordinary Time",
+      "season": "Ordinary Time",
+      "week_start": "2026-10-04",
+      "is_sunday": false
+    },
+    "2026-10-09": {
+      "weekday": "Friday",
+      "reading": "Luke 12:35-40",
+      "week_title": "Faithful & Obedient",
+      "sunday_label": "Ordinary Time",
+      "season": "Ordinary Time",
+      "week_start": "2026-10-04",
+      "is_sunday": false
+    },
+    "2026-10-10": {
+      "weekday": "Saturday",
+      "reading": "Luke 12:41-48",
+      "week_title": "Faithful & Obedient",
+      "sunday_label": "Ordinary Time",
+      "season": "Ordinary Time",
+      "week_start": "2026-10-04",
+      "is_sunday": false
+    },
+    "2026-10-11": {
+      "weekday": "Sunday",
+      "reading": "Psalm 103",
+      "week_title": "All Things Are Possible",
+      "sunday_label": "Ordinary Time",
+      "season": "Ordinary Time",
+      "week_start": "2026-10-11",
+      "is_sunday": true
+    },
+    "2026-10-12": {
+      "weekday": "Monday",
+      "reading": "Exodus 3:7-22",
+      "week_title": "All Things Are Possible",
+      "sunday_label": "Ordinary Time",
+      "season": "Ordinary Time",
+      "week_start": "2026-10-11",
+      "is_sunday": false
+    },
+    "2026-10-13": {
+      "weekday": "Tuesday",
+      "reading": "Jeremiah 32:16-24",
+      "week_title": "All Things Are Possible",
+      "sunday_label": "Ordinary Time",
+      "season": "Ordinary Time",
+      "week_start": "2026-10-11",
+      "is_sunday": false
+    },
+    "2026-10-14": {
+      "weekday": "Wednesday",
+      "reading": "Isaiah 40:18-31",
+      "week_title": "All Things Are Possible",
+      "sunday_label": "Ordinary Time",
+      "season": "Ordinary Time",
+      "week_start": "2026-10-11",
+      "is_sunday": false
+    },
+    "2026-10-15": {
+      "weekday": "Thursday",
+      "reading": "Romans 4:13-25",
+      "week_title": "All Things Are Possible",
+      "sunday_label": "Ordinary Time",
+      "season": "Ordinary Time",
+      "week_start": "2026-10-11",
+      "is_sunday": false
+    },
+    "2026-10-16": {
+      "weekday": "Friday",
+      "reading": "Acts 12:1-17",
+      "week_title": "All Things Are Possible",
+      "sunday_label": "Ordinary Time",
+      "season": "Ordinary Time",
+      "week_start": "2026-10-11",
+      "is_sunday": false
+    },
+    "2026-10-17": {
+      "weekday": "Saturday",
+      "reading": "Hebrews 1:1-14",
+      "week_title": "All Things Are Possible",
+      "sunday_label": "Ordinary Time",
+      "season": "Ordinary Time",
+      "week_start": "2026-10-11",
+      "is_sunday": false
+    },
+    "2026-10-18": {
+      "weekday": "Sunday",
+      "reading": "Psalm 71",
+      "week_title": "Servanthood",
+      "sunday_label": "Ordinary Time",
+      "season": "Ordinary Time",
+      "week_start": "2026-10-18",
+      "is_sunday": true
+    },
+    "2026-10-19": {
+      "weekday": "Monday",
+      "reading": "John 13:1-11",
+      "week_title": "Servanthood",
+      "sunday_label": "Ordinary Time",
+      "season": "Ordinary Time",
+      "week_start": "2026-10-18",
+      "is_sunday": false
+    },
+    "2026-10-20": {
+      "weekday": "Tuesday",
+      "reading": "Romans 15:1-13",
+      "week_title": "Servanthood",
+      "sunday_label": "Ordinary Time",
+      "season": "Ordinary Time",
+      "week_start": "2026-10-18",
+      "is_sunday": false
+    },
+    "2026-10-21": {
+      "weekday": "Wednesday",
+      "reading": "2 Corinthians 6:1-10",
+      "week_title": "Servanthood",
+      "sunday_label": "Ordinary Time",
+      "season": "Ordinary Time",
+      "week_start": "2026-10-18",
+      "is_sunday": false
+    },
+    "2026-10-22": {
+      "weekday": "Thursday",
+      "reading": "2 Corinthians 4:1-13",
+      "week_title": "Servanthood",
+      "sunday_label": "Ordinary Time",
+      "season": "Ordinary Time",
+      "week_start": "2026-10-18",
+      "is_sunday": false
+    },
+    "2026-10-23": {
+      "weekday": "Friday",
+      "reading": "2 Corinthians 7:1-13",
+      "week_title": "Servanthood",
+      "sunday_label": "Ordinary Time",
+      "season": "Ordinary Time",
+      "week_start": "2026-10-18",
+      "is_sunday": false
+    },
+    "2026-10-24": {
+      "weekday": "Saturday",
+      "reading": "Matthew 10:24-39",
+      "week_title": "Servanthood",
+      "sunday_label": "Ordinary Time",
+      "season": "Ordinary Time",
+      "week_start": "2026-10-18",
+      "is_sunday": false
+    },
+    "2026-10-25": {
+      "weekday": "Sunday",
+      "reading": "Psalm 139",
+      "week_title": "When Jesus Calls",
+      "sunday_label": "Ordinary Time",
+      "season": "Ordinary Time",
+      "week_start": "2026-10-25",
+      "is_sunday": true
+    },
+    "2026-10-26": {
+      "weekday": "Monday",
+      "reading": "Luke 7:36-50",
+      "week_title": "When Jesus Calls",
+      "sunday_label": "Ordinary Time",
+      "season": "Ordinary Time",
+      "week_start": "2026-10-25",
+      "is_sunday": false
+    },
+    "2026-10-27": {
+      "weekday": "Tuesday",
+      "reading": "Mark 5:1-20",
+      "week_title": "When Jesus Calls",
+      "sunday_label": "Ordinary Time",
+      "season": "Ordinary Time",
+      "week_start": "2026-10-25",
+      "is_sunday": false
+    },
+    "2026-10-28": {
+      "weekday": "Wednesday",
+      "reading": "Matthew 9:1-12",
+      "week_title": "When Jesus Calls",
+      "sunday_label": "Ordinary Time",
+      "season": "Ordinary Time",
+      "week_start": "2026-10-25",
+      "is_sunday": false
+    },
+    "2026-10-29": {
+      "weekday": "Thursday",
+      "reading": "Acts 9:10-18",
+      "week_title": "When Jesus Calls",
+      "sunday_label": "Ordinary Time",
+      "season": "Ordinary Time",
+      "week_start": "2026-10-25",
+      "is_sunday": false
+    },
+    "2026-10-30": {
+      "weekday": "Friday",
+      "reading": "Luke 6:27-36",
+      "week_title": "When Jesus Calls",
+      "sunday_label": "Ordinary Time",
+      "season": "Ordinary Time",
+      "week_start": "2026-10-25",
+      "is_sunday": false
+    },
+    "2026-10-31": {
+      "weekday": "Saturday",
+      "reading": "John 9:1-12, 35-41",
+      "week_title": "When Jesus Calls",
+      "sunday_label": "Ordinary Time",
+      "season": "Ordinary Time",
+      "week_start": "2026-10-25",
+      "is_sunday": false
+    },
+    "2026-11-01": {
+      "weekday": "Sunday",
+      "reading": "Psalm 4",
+      "week_title": "True Humanity",
+      "sunday_label": "Ordinary Time",
+      "season": "Ordinary Time",
+      "week_start": "2026-11-01",
+      "is_sunday": true
+    },
+    "2026-11-02": {
+      "weekday": "Monday",
+      "reading": "Romans 8:1-17",
+      "week_title": "True Humanity",
+      "sunday_label": "Ordinary Time",
+      "season": "Ordinary Time",
+      "week_start": "2026-11-01",
+      "is_sunday": false
+    },
+    "2026-11-03": {
+      "weekday": "Tuesday",
+      "reading": "2 Timothy 1:1-14",
+      "week_title": "True Humanity",
+      "sunday_label": "Ordinary Time",
+      "season": "Ordinary Time",
+      "week_start": "2026-11-01",
+      "is_sunday": false
+    },
+    "2026-11-04": {
+      "weekday": "Wednesday",
+      "reading": "1 Peter 2:21-25",
+      "week_title": "True Humanity",
+      "sunday_label": "Ordinary Time",
+      "season": "Ordinary Time",
+      "week_start": "2026-11-01",
+      "is_sunday": false
+    },
+    "2026-11-05": {
+      "weekday": "Thursday",
+      "reading": "Romans 14:1-21",
+      "week_title": "True Humanity",
+      "sunday_label": "Ordinary Time",
+      "season": "Ordinary Time",
+      "week_start": "2026-11-01",
+      "is_sunday": false
+    },
+    "2026-11-06": {
+      "weekday": "Friday",
+      "reading": "Matthew 6:25-34",
+      "week_title": "True Humanity",
+      "sunday_label": "Ordinary Time",
+      "season": "Ordinary Time",
+      "week_start": "2026-11-01",
+      "is_sunday": false
+    },
+    "2026-11-07": {
+      "weekday": "Saturday",
+      "reading": "Matthew 19:16-29",
+      "week_title": "True Humanity",
+      "sunday_label": "Ordinary Time",
+      "season": "Ordinary Time",
+      "week_start": "2026-11-01",
+      "is_sunday": false
+    },
+    "2026-11-08": {
+      "weekday": "Sunday",
+      "reading": "Psalm 90",
+      "week_title": "A Resurrection People",
+      "sunday_label": "Ordinary Time",
+      "season": "Ordinary Time",
+      "week_start": "2026-11-08",
+      "is_sunday": true
+    },
+    "2026-11-09": {
+      "weekday": "Monday",
+      "reading": "John 11:1-16",
+      "week_title": "A Resurrection People",
+      "sunday_label": "Ordinary Time",
+      "season": "Ordinary Time",
+      "week_start": "2026-11-08",
+      "is_sunday": false
+    },
+    "2026-11-10": {
+      "weekday": "Tuesday",
+      "reading": "John 11:17-27",
+      "week_title": "A Resurrection People",
+      "sunday_label": "Ordinary Time",
+      "season": "Ordinary Time",
+      "week_start": "2026-11-08",
+      "is_sunday": false
+    },
+    "2026-11-11": {
+      "weekday": "Wednesday",
+      "reading": "John 11:28-37",
+      "week_title": "A Resurrection People",
+      "sunday_label": "Ordinary Time",
+      "season": "Ordinary Time",
+      "week_start": "2026-11-08",
+      "is_sunday": false
+    },
+    "2026-11-12": {
+      "weekday": "Thursday",
+      "reading": "John 11:38-44",
+      "week_title": "A Resurrection People",
+      "sunday_label": "Ordinary Time",
+      "season": "Ordinary Time",
+      "week_start": "2026-11-08",
+      "is_sunday": false
+    },
+    "2026-11-13": {
+      "weekday": "Friday",
+      "reading": "Acts 17:22-23",
+      "week_title": "A Resurrection People",
+      "sunday_label": "Ordinary Time",
+      "season": "Ordinary Time",
+      "week_start": "2026-11-08",
+      "is_sunday": false
+    },
+    "2026-11-14": {
+      "weekday": "Saturday",
+      "reading": "Romans 6:1-11",
+      "week_title": "A Resurrection People",
+      "sunday_label": "Ordinary Time",
+      "season": "Ordinary Time",
+      "week_start": "2026-11-08",
+      "is_sunday": false
+    },
+    "2026-11-15": {
+      "weekday": "Sunday",
+      "reading": "Psalm 16",
+      "week_title": "Faithful Witness",
+      "sunday_label": "Ordinary Time",
+      "season": "Ordinary Time",
+      "week_start": "2026-11-15",
+      "is_sunday": true
+    },
+    "2026-11-16": {
+      "weekday": "Monday",
+      "reading": "Philippians 1:12-18",
+      "week_title": "Faithful Witness",
+      "sunday_label": "Ordinary Time",
+      "season": "Ordinary Time",
+      "week_start": "2026-11-15",
+      "is_sunday": false
+    },
+    "2026-11-17": {
+      "weekday": "Tuesday",
+      "reading": "Luke 12:1-12",
+      "week_title": "Faithful Witness",
+      "sunday_label": "Ordinary Time",
+      "season": "Ordinary Time",
+      "week_start": "2026-11-15",
+      "is_sunday": false
+    },
+    "2026-11-18": {
+      "weekday": "Wednesday",
+      "reading": "Colossians 4:1-6",
+      "week_title": "Faithful Witness",
+      "sunday_label": "Ordinary Time",
+      "season": "Ordinary Time",
+      "week_start": "2026-11-15",
+      "is_sunday": false
+    },
+    "2026-11-19": {
+      "weekday": "Thursday",
+      "reading": "Matthew 20:1-16",
+      "week_title": "Faithful Witness",
+      "sunday_label": "Ordinary Time",
+      "season": "Ordinary Time",
+      "week_start": "2026-11-15",
+      "is_sunday": false
+    },
+    "2026-11-20": {
+      "weekday": "Friday",
+      "reading": "John 5:30-47",
+      "week_title": "Faithful Witness",
+      "sunday_label": "Ordinary Time",
+      "season": "Ordinary Time",
+      "week_start": "2026-11-15",
+      "is_sunday": false
+    },
+    "2026-11-21": {
+      "weekday": "Saturday",
+      "reading": "Acts 10:34-38",
+      "week_title": "Faithful Witness",
+      "sunday_label": "Ordinary Time",
+      "season": "Ordinary Time",
+      "week_start": "2026-11-15",
+      "is_sunday": false
+    },
+    "2026-11-22": {
+      "weekday": "Sunday",
+      "reading": "Psalm 47",
+      "week_title": "Christ the King",
+      "sunday_label": "Last Sunday After Pentecost",
+      "season": "Ordinary Time",
+      "week_start": "2026-11-22",
+      "is_sunday": true
+    },
+    "2026-11-23": {
+      "weekday": "Monday",
+      "reading": "Matthew 16:21-28",
+      "week_title": "Christ the King",
+      "sunday_label": "Last Sunday After Pentecost",
+      "season": "Ordinary Time",
+      "week_start": "2026-11-22",
+      "is_sunday": false
+    },
+    "2026-11-24": {
+      "weekday": "Tuesday",
+      "reading": "John 6:15-21",
+      "week_title": "Christ the King",
+      "sunday_label": "Last Sunday After Pentecost",
+      "season": "Ordinary Time",
+      "week_start": "2026-11-22",
+      "is_sunday": false
+    },
+    "2026-11-25": {
+      "weekday": "Wednesday",
+      "reading": "John 1:43-51",
+      "week_title": "Christ the King",
+      "sunday_label": "Last Sunday After Pentecost",
+      "season": "Ordinary Time",
+      "week_start": "2026-11-22",
+      "is_sunday": false
+    },
+    "2026-11-26": {
+      "weekday": "Thursday",
+      "reading": "Acts 17:1-9",
+      "week_title": "Christ the King",
+      "sunday_label": "Last Sunday After Pentecost",
+      "season": "Ordinary Time",
+      "week_start": "2026-11-22",
+      "is_sunday": false
+    },
+    "2026-11-27": {
+      "weekday": "Friday",
+      "reading": "1 Corinthians 15:20-28",
+      "week_title": "Christ the King",
+      "sunday_label": "Last Sunday After Pentecost",
+      "season": "Ordinary Time",
+      "week_start": "2026-11-22",
+      "is_sunday": false
+    },
+    "2026-11-28": {
+      "weekday": "Saturday",
+      "reading": "Revelation 1:1-8",
+      "week_title": "Christ the King",
+      "sunday_label": "Last Sunday After Pentecost",
+      "season": "Ordinary Time",
+      "week_start": "2026-11-22",
+      "is_sunday": false
+    },
+    "2026-11-29": {
+      "weekday": "Sunday",
+      "reading": "Psalm 97",
+      "week_title": "Waiting & Watching",
+      "sunday_label": "1st Sunday in Advent",
+      "season": "Season of Advent",
+      "week_start": "2026-11-29",
+      "is_sunday": true
+    },
+    "2026-11-30": {
+      "weekday": "Monday",
+      "reading": "Luke 1:67-80",
+      "week_title": "Waiting & Watching",
+      "sunday_label": "1st Sunday in Advent",
+      "season": "Season of Advent",
+      "week_start": "2026-11-29",
+      "is_sunday": false
+    },
+    "2026-12-01": {
+      "weekday": "Tuesday",
+      "reading": "Colossians 1:9-23",
+      "week_title": "Waiting & Watching",
+      "sunday_label": "1st Sunday in Advent",
+      "season": "Season of Advent",
+      "week_start": "2026-11-29",
+      "is_sunday": false
+    },
+    "2026-12-02": {
+      "weekday": "Wednesday",
+      "reading": "Mark 1:1-8",
+      "week_title": "Waiting & Watching",
+      "sunday_label": "1st Sunday in Advent",
+      "season": "Season of Advent",
+      "week_start": "2026-11-29",
+      "is_sunday": false
+    },
+    "2026-12-03": {
+      "weekday": "Thursday",
+      "reading": "Isaiah 43:1-13",
+      "week_title": "Waiting & Watching",
+      "sunday_label": "1st Sunday in Advent",
+      "season": "Season of Advent",
+      "week_start": "2026-11-29",
+      "is_sunday": false
+    },
+    "2026-12-04": {
+      "weekday": "Friday",
+      "reading": "Hebrews 10:11-25",
+      "week_title": "Waiting & Watching",
+      "sunday_label": "1st Sunday in Advent",
+      "season": "Season of Advent",
+      "week_start": "2026-11-29",
+      "is_sunday": false
+    },
+    "2026-12-05": {
+      "weekday": "Saturday",
+      "reading": "Zephaniah 3:14-20",
+      "week_title": "Waiting & Watching",
+      "sunday_label": "1st Sunday in Advent",
+      "season": "Season of Advent",
+      "week_start": "2026-11-29",
+      "is_sunday": false
+    },
+    "2026-12-06": {
+      "weekday": "Sunday",
+      "reading": "Psalm 62",
+      "week_title": "Getting Ready",
+      "sunday_label": "2nd Sunday in Advent",
+      "season": "Season of Advent",
+      "week_start": "2026-12-06",
+      "is_sunday": true
+    },
+    "2026-12-07": {
+      "weekday": "Monday",
+      "reading": "Luke 1:5-25",
+      "week_title": "Getting Ready",
+      "sunday_label": "2nd Sunday in Advent",
+      "season": "Season of Advent",
+      "week_start": "2026-12-06",
+      "is_sunday": false
+    },
+    "2026-12-08": {
+      "weekday": "Tuesday",
+      "reading": "Luke 1:57-80",
+      "week_title": "Getting Ready",
+      "sunday_label": "2nd Sunday in Advent",
+      "season": "Season of Advent",
+      "week_start": "2026-12-06",
+      "is_sunday": false
+    },
+    "2026-12-09": {
+      "weekday": "Wednesday",
+      "reading": "Matthew 3:1-12",
+      "week_title": "Getting Ready",
+      "sunday_label": "2nd Sunday in Advent",
+      "season": "Season of Advent",
+      "week_start": "2026-12-06",
+      "is_sunday": false
+    },
+    "2026-12-10": {
+      "weekday": "Thursday",
+      "reading": "Isaiah 62:1-12",
+      "week_title": "Getting Ready",
+      "sunday_label": "2nd Sunday in Advent",
+      "season": "Season of Advent",
+      "week_start": "2026-12-06",
+      "is_sunday": false
+    },
+    "2026-12-11": {
+      "weekday": "Friday",
+      "reading": "Luke 12:35-48",
+      "week_title": "Getting Ready",
+      "sunday_label": "2nd Sunday in Advent",
+      "season": "Season of Advent",
+      "week_start": "2026-12-06",
+      "is_sunday": false
+    },
+    "2026-12-12": {
+      "weekday": "Saturday",
+      "reading": "Isaiah 51:1-8",
+      "week_title": "Getting Ready",
+      "sunday_label": "2nd Sunday in Advent",
+      "season": "Season of Advent",
+      "week_start": "2026-12-06",
+      "is_sunday": false
+    },
+    "2026-12-13": {
+      "weekday": "Sunday",
+      "reading": "Psalm 80",
+      "week_title": "Good News",
+      "sunday_label": "3rd Sunday in Advent",
+      "season": "Season of Advent",
+      "week_start": "2026-12-13",
+      "is_sunday": true
+    },
+    "2026-12-14": {
+      "weekday": "Monday",
+      "reading": "Mark 13:1-13",
+      "week_title": "Good News",
+      "sunday_label": "3rd Sunday in Advent",
+      "season": "Season of Advent",
+      "week_start": "2026-12-13",
+      "is_sunday": false
+    },
+    "2026-12-15": {
+      "weekday": "Tuesday",
+      "reading": "Luke 21:25-36",
+      "week_title": "Good News",
+      "sunday_label": "3rd Sunday in Advent",
+      "season": "Season of Advent",
+      "week_start": "2026-12-13",
+      "is_sunday": false
+    },
+    "2026-12-16": {
+      "weekday": "Wednesday",
+      "reading": "Revelation 1:1-8",
+      "week_title": "Good News",
+      "sunday_label": "3rd Sunday in Advent",
+      "season": "Season of Advent",
+      "week_start": "2026-12-13",
+      "is_sunday": false
+    },
+    "2026-12-17": {
+      "weekday": "Thursday",
+      "reading": "John 1:14-18",
+      "week_title": "Good News",
+      "sunday_label": "3rd Sunday in Advent",
+      "season": "Season of Advent",
+      "week_start": "2026-12-13",
+      "is_sunday": false
+    },
+    "2026-12-18": {
+      "weekday": "Friday",
+      "reading": "Ezekiel 34:11-16",
+      "week_title": "Good News",
+      "sunday_label": "3rd Sunday in Advent",
+      "season": "Season of Advent",
+      "week_start": "2026-12-13",
+      "is_sunday": false
+    },
+    "2026-12-19": {
+      "weekday": "Saturday",
+      "reading": "Acts 1:1-11",
+      "week_title": "Good News",
+      "sunday_label": "3rd Sunday in Advent",
+      "season": "Season of Advent",
+      "week_start": "2026-12-13",
+      "is_sunday": false
+    },
+    "2026-12-20": {
+      "weekday": "Sunday",
+      "reading": "Psalm 65",
+      "week_title": "When God Comes",
+      "sunday_label": "4th Sunday in Advent",
+      "season": "Season of Advent",
+      "week_start": "2026-12-20",
+      "is_sunday": true
+    },
+    "2026-12-21": {
+      "weekday": "Monday",
+      "reading": "James 5:7-18",
+      "week_title": "When God Comes",
+      "sunday_label": "4th Sunday in Advent",
+      "season": "Season of Advent",
+      "week_start": "2026-12-20",
+      "is_sunday": false
+    },
+    "2026-12-22": {
+      "weekday": "Tuesday",
+      "reading": "Matthew 1:18-25",
+      "week_title": "When God Comes",
+      "sunday_label": "4th Sunday in Advent",
+      "season": "Season of Advent",
+      "week_start": "2026-12-20",
+      "is_sunday": false
+    },
+    "2026-12-23": {
+      "weekday": "Wednesday",
+      "reading": "Isaiah 40:1-11",
+      "week_title": "When God Comes",
+      "sunday_label": "4th Sunday in Advent",
+      "season": "Season of Advent",
+      "week_start": "2026-12-20",
+      "is_sunday": false
+    },
+    "2026-12-24": {
+      "weekday": "Thursday",
+      "reading": "Ezekiel 34:17-31",
+      "week_title": "When God Comes",
+      "sunday_label": "4th Sunday in Advent",
+      "season": "Season of Advent",
+      "week_start": "2026-12-20",
+      "is_sunday": false
+    },
+    "2026-12-25": {
+      "weekday": "Friday",
+      "reading": "Isaiah 9:1-7",
+      "week_title": "When God Comes",
+      "sunday_label": "4th Sunday in Advent",
+      "season": "Season of Advent",
+      "week_start": "2026-12-20",
+      "is_sunday": false
+    },
+    "2026-12-26": {
+      "weekday": "Saturday",
+      "reading": "Philippians 4:4-9",
+      "week_title": "When God Comes",
+      "sunday_label": "4th Sunday in Advent",
+      "season": "Season of Advent",
+      "week_start": "2026-12-20",
+      "is_sunday": false
+    },
+    "2026-12-27": {
+      "weekday": "Sunday",
+      "reading": "Psalm 96",
+      "week_title": "God’s Greatest Gift",
+      "sunday_label": "1st Sunday after Christmas",
+      "season": "Season of Advent",
+      "week_start": "2026-12-27",
+      "is_sunday": true
+    },
+    "2026-12-28": {
+      "weekday": "Monday",
+      "reading": "Exodus 20:18-26",
+      "week_title": "God’s Greatest Gift",
+      "sunday_label": "1st Sunday after Christmas",
+      "season": "Season of Advent",
+      "week_start": "2026-12-27",
+      "is_sunday": false
+    },
+    "2026-12-29": {
+      "weekday": "Tuesday",
+      "reading": "Galatians 3:23-4:7",
+      "week_title": "God’s Greatest Gift",
+      "sunday_label": "1st Sunday after Christmas",
+      "season": "Season of Advent",
+      "week_start": "2026-12-27",
+      "is_sunday": false
+    },
+    "2026-12-30": {
+      "weekday": "Wednesday",
+      "reading": "2 Corinthians 5:16-21",
+      "week_title": "God’s Greatest Gift",
+      "sunday_label": "1st Sunday after Christmas",
+      "season": "Season of Advent",
+      "week_start": "2026-12-27",
+      "is_sunday": false
+    },
+    "2026-12-31": {
+      "weekday": "Thursday",
+      "reading": "John 3:1-8",
+      "week_title": "God’s Greatest Gift",
+      "sunday_label": "1st Sunday after Christmas",
+      "season": "Season of Advent",
+      "week_start": "2026-12-27",
+      "is_sunday": false
+    },
+    "2027-01-01": {
+      "weekday": "Friday",
+      "reading": "Ephesians 1:3-14",
+      "week_title": "God’s Greatest Gift",
+      "sunday_label": "1st Sunday after Christmas",
+      "season": "Season of Advent",
+      "week_start": "2026-12-27",
+      "is_sunday": false
+    },
+    "2027-01-02": {
+      "weekday": "Saturday",
+      "reading": "Colossians 1:15-23",
+      "week_title": "God’s Greatest Gift",
+      "sunday_label": "1st Sunday after Christmas",
+      "season": "Season of Advent",
+      "week_start": "2026-12-27",
+      "is_sunday": false
+    }
+  }
+}
