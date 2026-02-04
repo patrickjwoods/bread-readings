@@ -1,20 +1,33 @@
 import TodayCard from "./today-card";
+import { ThemeToggle } from "./theme-toggle";
 
 export default function Page() {
   return (
-    <main className="min-h-screen bg-gradient-to-b from-zinc-50 to-white text-zinc-900">
+    <main className="min-h-screen bg-[var(--background)] text-[var(--foreground)]">
       <div className="mx-auto max-w-3xl px-6 py-10">
-        <header className="mb-8">
-          <h1 className="text-3xl font-semibold tracking-tight">Daily Readings</h1>
-          <p className="mt-2 text-zinc-600">
-            Yesterday, today, and tomorrow — from your BREAD reading plan.
-          </p>
+        <header className="mb-8 flex items-start justify-between">
+          <div>
+            <h1 className="text-3xl font-bold tracking-tight" style={{ fontFamily: 'var(--font-cinzel)' }}>BREAD 2026</h1>
+            <p className="mt-2 text-[var(--muted)]">
+              Yesterday, today, and tomorrow's scripture readings from the Reality SF BREAD reading plan.
+            </p>
+          </div>
+          <ThemeToggle />
         </header>
 
         <TodayCard />
 
-        <footer className="mt-10 text-sm text-zinc-500">
-          Tip: bookmark this page on your phone home screen.
+        <footer className="mt-10 text-sm text-[var(--muted)]">
+          Created and maintained with 💜 by{" "}
+          <a
+            href="https://x.com/patrickjwoods"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="underline hover:text-[var(--foreground)]"
+          >
+            @patrickjwoods
+          </a>
+          .
         </footer>
       </div>
     </main>

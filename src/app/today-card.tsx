@@ -42,12 +42,65 @@ function formatHuman(iso: string) {
   });
 }
 
-function Badge({ children }: { children: React.ReactNode }) {
-  return (
-    <span className="inline-flex items-center rounded-full bg-zinc-100 px-2.5 py-1 text-xs font-medium text-zinc-700">
-      {children}
-    </span>
-  );
+function formatMonthDay(iso: string) {
+  const [y, m, d] = iso.split("-").map(Number);
+  const date = new Date(y, m - 1, d);
+  return date.toLocaleDateString(undefined, {
+    month: "long",
+    day: "numeric",
+  });
+}
+
+const bookAbbreviations: Record<string, string> = {
+  "Genesis": "GEN",
+  "Exodus": "EXO",
+  "Deuteronomy": "DEU",
+  "Joshua": "JOS",
+  "1 Kings": "1KI",
+  "Nehemiah": "NEH",
+  "Psalm": "PSA",
+  "Isaiah": "ISA",
+  "Jeremiah": "JER",
+  "Ezekiel": "EZK",
+  "Hosea": "HOS",
+  "Zephaniah": "ZEP",
+  "Matthew": "MAT",
+  "Mark": "MRK",
+  "Luke": "LUK",
+  "John": "JHN",
+  "Acts": "ACT",
+  "Romans": "ROM",
+  "1 Corinthians": "1CO",
+  "2 Corinthians": "2CO",
+  "Galatians": "GAL",
+  "Ephesians": "EPH",
+  "Philippians": "PHP",
+  "Colossians": "COL",
+  "1 Thessalonians": "1TH",
+  "2 Thessalonians": "2TH",
+  "1 Timothy": "1TI",
+  "2 Timothy": "2TI",
+  "Titus": "TIT",
+  "Philemon": "PHM",
+  "Hebrews": "HEB",
+  "James": "JAS",
+  "1 Peter": "1PE",
+  "2 Peter": "2PE",
+  "1 John": "1JN",
+  "Revelation": "REV",
+};
+
+function getBibleUrl(reading: string): string {
+  // Parse reading like "Psalm 89:1-18" or "1 Corinthians 13:1-13"
+  const match = reading.match(/^(.+?)\s+(\d+):(.+)$/);
+  if (!match) return "#";
+
+  const [, book, chapter, verses] = match;
+  const abbrev = bookAbbreviations[book];
+  if (!abbrev) return "#";
+
+  // Format: https://www.bible.com/bible/111/GEN.1.20-31.NIV
+  return `https://www.bible.com/bible/111/${abbrev}.${chapter}.${verses}.NIV`;
 }
 
 function Panel({
@@ -55,52 +108,82 @@ function Panel({
   iso,
   entry,
   emphasis,
+  compact,
 }: {
   label: string;
   iso: string;
   entry?: ReadingEntry;
   emphasis?: boolean;
+  compact?: boolean;
 }) {
+  if (compact) {
+    return (
+      <section className="rounded-2xl border border-[var(--card-border)] bg-[var(--card-bg)] p-5 shadow-sm">
+        <div className="text-xs font-semibold uppercase tracking-wide text-[var(--muted)]">
+          {label}
+        </div>
+        {entry ? (
+          <a
+            href={getBibleUrl(entry.reading)}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="scripture-link mt-4 block text-lg font-semibold leading-snug"
+          >
+            {entry.reading}<span className="scripture-arrows"> ››</span>
+          </a>
+        ) : (
+          <div className="mt-4 text-sm text-[var(--muted-foreground)]">No reading</div>
+        )}
+      </section>
+    );
+  }
+
   return (
     <section
       className={[
-        "rounded-2xl border bg-white p-5 shadow-sm",
-        emphasis ? "border-zinc-900" : "border-zinc-200",
+        "rounded-2xl border bg-[var(--card-bg)] p-5 shadow-sm",
+        emphasis ? "border-[var(--card-border-emphasis)]" : "border-[var(--card-border)]",
       ].join(" ")}
     >
       <div className="flex items-start justify-between gap-3">
         <div>
-          <div className="text-xs font-semibold uppercase tracking-wide text-zinc-500">
+          <div className="text-xs font-semibold uppercase tracking-wide text-[var(--muted)]">
             {label}
           </div>
-          <div className="mt-1 text-sm text-zinc-600">{formatHuman(iso)}</div>
+          <div className="mt-1 text-sm text-[var(--muted)]">{formatHuman(iso)}</div>
         </div>
-        {emphasis ? <Badge>Today</Badge> : null}
       </div>
 
       {entry ? (
         <>
           <div className="mt-4">
-            <div className="text-lg font-semibold leading-snug">{entry.reading}</div>
-            <div className="mt-2 text-sm text-zinc-600">
-              <span className="font-medium text-zinc-800">{entry.week_title}</span>
-              {" · "}
-              <span>{entry.sunday_label}</span>
+            <a
+              href={getBibleUrl(entry.reading)}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="scripture-link text-lg font-semibold leading-snug"
+            >
+              {entry.reading}<span className="scripture-arrows"> ››</span>
+            </a>
+            <div className="mt-2 text-sm text-[var(--muted)]">
+              <span className="font-medium text-[var(--foreground)]">{entry.week_title}</span>
               {entry.season ? (
                 <>
                   {" · "}
                   <span>{entry.season}</span>
                 </>
               ) : null}
+              {" · "}
+              <span>{entry.sunday_label}</span>
             </div>
           </div>
 
-          <div className="mt-4 border-t pt-4 text-xs text-zinc-500">
-            Week begins: {entry.week_start}
+          <div className="mt-4 border-t border-[var(--card-border)] pt-4 text-xs text-[var(--muted)]">
+            Week begins: {formatMonthDay(entry.week_start)}
           </div>
         </>
       ) : (
-        <div className="mt-4 text-sm text-zinc-600">
+        <div className="mt-4 text-sm text-[var(--muted)]">
           No reading found for this date in the JSON.
         </div>
       )}
@@ -136,10 +219,10 @@ export default function TodayCard() {
 
   if (error) {
     return (
-      <div className="rounded-2xl border border-red-200 bg-red-50 p-5 text-red-800">
-        <div className="font-semibold">Couldn’t load readings</div>
+      <div className="rounded-2xl border border-red-400/50 bg-red-500/10 p-5 text-red-600 dark:text-red-400">
+        <div className="font-semibold">Couldn't load readings</div>
         <div className="mt-1 text-sm">{error}</div>
-        <div className="mt-3 text-sm text-red-700">
+        <div className="mt-3 text-sm opacity-80">
           Make sure the file exists at{" "}
           <code className="font-mono">/public/bread_readings_2026.json</code>.
         </div>
@@ -149,12 +232,12 @@ export default function TodayCard() {
 
   if (!plan) {
     return (
-      <div className="rounded-2xl border border-zinc-200 bg-white p-5 shadow-sm">
+      <div className="rounded-2xl border border-[var(--card-border)] bg-[var(--card-bg)] p-5 shadow-sm">
         <div className="animate-pulse space-y-3">
-          <div className="h-4 w-28 rounded bg-zinc-100" />
-          <div className="h-6 w-3/4 rounded bg-zinc-100" />
-          <div className="h-4 w-2/3 rounded bg-zinc-100" />
-          <div className="h-4 w-1/2 rounded bg-zinc-100" />
+          <div className="h-4 w-28 rounded bg-[var(--card-border)]" />
+          <div className="h-6 w-3/4 rounded bg-[var(--card-border)]" />
+          <div className="h-4 w-2/3 rounded bg-[var(--card-border)]" />
+          <div className="h-4 w-1/2 rounded bg-[var(--card-border)]" />
         </div>
       </div>
     );
@@ -164,9 +247,9 @@ export default function TodayCard() {
 
   return (
     <div className="grid gap-4">
-      <Panel label="Yesterday" iso={dates.yesterday} entry={byDate[dates.yesterday]} />
+      <Panel label="Yesterday" iso={dates.yesterday} entry={byDate[dates.yesterday]} compact />
       <Panel label="Today" iso={dates.today} entry={byDate[dates.today]} emphasis />
-      <Panel label="Tomorrow" iso={dates.tomorrow} entry={byDate[dates.tomorrow]} />
+      <Panel label="Tomorrow" iso={dates.tomorrow} entry={byDate[dates.tomorrow]} compact />
     </div>
   );
 }
