@@ -28,6 +28,27 @@ export const metadata: Metadata = {
     statusBarStyle: "default",
     title: "BREAD",
   },
+  openGraph: {
+    title: "BREAD 2026",
+    description: "Yesterday, today, and tomorrow's scripture readings from the Reality SF BREAD reading plan.",
+    url: "https://breadreadings.com",
+    siteName: "BREAD 2026",
+    images: [
+      {
+        url: "https://breadreadings.com/og-image.jpg",
+        width: 1200,
+        height: 630,
+        alt: "Library interior with bookshelves",
+      },
+    ],
+    type: "website",
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "BREAD 2026",
+    description: "Yesterday, today, and tomorrow's scripture readings from the Reality SF BREAD reading plan.",
+    images: ["https://breadreadings.com/og-image.jpg"],
+  },
 };
 
 export const viewport: Viewport = {
