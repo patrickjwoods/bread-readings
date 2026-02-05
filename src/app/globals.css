@@ -1,13 +1,13 @@
 @import "tailwindcss";
 
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
-  --card-bg: #ffffff;
-  --card-border: #e4e4e7;
-  --card-border-emphasis: #18181b;
-  --muted: #71717a;
-  --muted-foreground: #a1a1aa;
+  --background: #faf7f2;
+  --foreground: #3d2e1f;
+  --card-bg: #fffdf9;
+  --card-border: #e0d5c7;
+  --card-border-emphasis: #8b6914;
+  --muted: #7a6b5a;
+  --muted-foreground: #a69780;
 }
 
 :root.dark {
@@ -43,14 +43,28 @@ body {
 }
 
 .scripture-link:hover {
-  background: linear-gradient(90deg, #6366f1, #8b5cf6);
+  background: linear-gradient(90deg, #b8860b, #d4a039);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;
 }
 
 .scripture-arrows {
-  background: linear-gradient(90deg, #6366f1, #8b5cf6);
+  background: linear-gradient(90deg, #b8860b, #d4a039);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+:root.dark .scripture-link:hover {
+  background: linear-gradient(90deg, #60a5fa, #a78bfa);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+:root.dark .scripture-arrows {
+  background: linear-gradient(90deg, #60a5fa, #a78bfa);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;

@@ -9,7 +9,15 @@ export default function Page() {
           <div>
             <h1 className="text-3xl font-bold tracking-tight" style={{ fontFamily: 'var(--font-cinzel)' }}>BREAD 2026</h1>
             <p className="mt-2 text-[var(--muted)]">
-              Yesterday, today, and tomorrow's scripture readings from the Reality SF BREAD reading plan.
+              Yesterday, today, and tomorrow's scripture readings from the Reality SF BREAD reading plan.{" "}
+              <a
+                href="https://realitysf.com/wp-content/uploads/2025/12/BREAD-2026-Digital-Guide.pdf"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="underline hover:text-[var(--foreground)]"
+              >
+                View the whole year
+              </a>.
             </p>
           </div>
           <ThemeToggle />

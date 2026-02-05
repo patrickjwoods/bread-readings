@@ -118,8 +118,11 @@ function Panel({
 }) {
   if (compact) {
     return (
-      <section className="rounded-2xl border border-[var(--card-border)] bg-[var(--card-bg)] p-5 shadow-sm">
-        <div className="text-xs font-semibold uppercase tracking-wide text-[var(--muted)]">
+      <section className="rounded-lg border border-[var(--card-border)] bg-[var(--card-bg)] p-5 shadow-xs">
+        <div
+          className="text-xs font-semibold uppercase tracking-wide text-[var(--muted)]"
+          style={{ fontFamily: 'var(--font-cinzel)' }}
+        >
           {label}
         </div>
         {entry ? (
@@ -128,6 +131,7 @@ function Panel({
             target="_blank"
             rel="noopener noreferrer"
             className="scripture-link mt-4 block text-lg font-semibold leading-snug"
+            style={{ fontFamily: 'var(--font-cinzel)' }}
           >
             {entry.reading}<span className="scripture-arrows"> ››</span>
           </a>
@@ -141,13 +145,16 @@ function Panel({
   return (
     <section
       className={[
-        "rounded-2xl border bg-[var(--card-bg)] p-5 shadow-sm",
+        "rounded-lg border bg-[var(--card-bg)] p-5 shadow-xs",
         emphasis ? "border-[var(--card-border-emphasis)]" : "border-[var(--card-border)]",
       ].join(" ")}
     >
       <div className="flex items-start justify-between gap-3">
         <div>
-          <div className="text-xs font-semibold uppercase tracking-wide text-[var(--muted)]">
+          <div
+            className="text-xs font-semibold uppercase tracking-wide text-[var(--muted)]"
+            style={{ fontFamily: 'var(--font-cinzel)' }}
+          >
             {label}
           </div>
           <div className="mt-1 text-sm text-[var(--muted)]">{formatHuman(iso)}</div>
@@ -162,6 +169,7 @@ function Panel({
               target="_blank"
               rel="noopener noreferrer"
               className="scripture-link text-lg font-semibold leading-snug"
+              style={{ fontFamily: 'var(--font-cinzel)' }}
             >
               {entry.reading}<span className="scripture-arrows"> ››</span>
             </a>
@@ -219,7 +227,7 @@ export default function TodayCard() {
 
   if (error) {
     return (
-      <div className="rounded-2xl border border-red-400/50 bg-red-500/10 p-5 text-red-600 dark:text-red-400">
+      <div className="rounded-lg border border-red-400/50 bg-red-500/10 p-5 text-red-600 dark:text-red-400">
         <div className="font-semibold">Couldn't load readings</div>
         <div className="mt-1 text-sm">{error}</div>
         <div className="mt-3 text-sm opacity-80">
@@ -232,7 +240,7 @@ export default function TodayCard() {
 
   if (!plan) {
     return (
-      <div className="rounded-2xl border border-[var(--card-border)] bg-[var(--card-bg)] p-5 shadow-sm">
+      <div className="rounded-lg border border-[var(--card-border)] bg-[var(--card-bg)] p-5 shadow-xs">
         <div className="animate-pulse space-y-3">
           <div className="h-4 w-28 rounded bg-[var(--card-border)]" />
           <div className="h-6 w-3/4 rounded bg-[var(--card-border)]" />
