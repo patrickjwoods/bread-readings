@@ -118,7 +118,7 @@ function Panel({
 }) {
   if (compact) {
     return (
-      <section className="rounded-lg border border-[var(--card-border)] bg-[var(--card-bg)] p-5 shadow-xs">
+      <section className="rounded-lg border border-[var(--card-border)] bg-[var(--card-bg)] px-5 py-6 shadow-xs">
         <div
           className="text-xs font-semibold uppercase tracking-wide text-[var(--muted)]"
           style={{ fontFamily: 'var(--font-cinzel)' }}
@@ -145,8 +145,8 @@ function Panel({
   return (
     <section
       className={[
-        "rounded-lg border bg-[var(--card-bg)] p-5 shadow-xs",
-        emphasis ? "border-[var(--card-border-emphasis)]" : "border-[var(--card-border)]",
+        "rounded-lg border bg-[var(--card-bg)] px-5 py-6 shadow-xs",
+        emphasis ? "border-[var(--card-border-emphasis)] gradient-border" : "border-[var(--card-border)]",
       ].join(" ")}
     >
       <div className="flex items-start justify-between gap-3">
@@ -168,13 +168,13 @@ function Panel({
               href={getBibleUrl(entry.reading)}
               target="_blank"
               rel="noopener noreferrer"
-              className="scripture-link text-lg font-semibold leading-snug"
+              className="scripture-link text-2xl font-semibold leading-snug"
               style={{ fontFamily: 'var(--font-cinzel)' }}
             >
               {entry.reading}<span className="scripture-arrows"> ››</span>
             </a>
-            <div className="mt-2 text-sm text-[var(--muted)]">
-              <span className="font-medium text-[var(--foreground)]">{entry.week_title}</span>
+            <div className="mt-4 text-sm text-[var(--muted)]">
+              <span>{entry.week_title}</span>
               {entry.season ? (
                 <>
                   {" · "}
@@ -184,10 +184,6 @@ function Panel({
               {" · "}
               <span>{entry.sunday_label}</span>
             </div>
-          </div>
-
-          <div className="mt-4 border-t border-[var(--card-border)] pt-4 text-xs text-[var(--muted)]">
-            Week begins: {formatMonthDay(entry.week_start)}
           </div>
         </>
       ) : (

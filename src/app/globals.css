@@ -69,3 +69,14 @@ body {
   -webkit-text-fill-color: transparent;
   background-clip: text;
 }
+
+.gradient-border {
+  position: relative;
+}
+
+:root.dark .gradient-border {
+  border-color: transparent;
+  background:
+    linear-gradient(var(--card-bg), var(--card-bg)) padding-box,
+    linear-gradient(90deg, #60a5fa, #a78bfa) border-box;
+}

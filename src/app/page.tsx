@@ -5,7 +5,7 @@ export default function Page() {
   return (
     <main className="min-h-screen bg-[var(--background)] text-[var(--foreground)]">
       <div className="mx-auto max-w-3xl px-6 py-10">
-        <header className="mb-8 flex items-start justify-between">
+        <header className="mb-8 flex items-start justify-between pl-1">
           <div>
             <h1 className="text-3xl font-bold tracking-tight" style={{ fontFamily: 'var(--font-cinzel)' }}>BREAD 2026</h1>
             <p className="mt-2 text-[var(--muted)]">
@@ -25,7 +25,7 @@ export default function Page() {
 
         <TodayCard />
 
-        <footer className="mt-10 text-sm text-[var(--muted)]">
+        <footer className="mt-10 pl-1 text-sm text-[var(--muted)]">
           Created and maintained with 💜 by{" "}
           <a
             href="https://x.com/patrickjwoods"
