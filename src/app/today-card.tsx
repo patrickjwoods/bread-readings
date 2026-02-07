@@ -91,16 +91,34 @@ const bookAbbreviations: Record<string, string> = {
 };
 
 function getBibleUrl(reading: string): string {
-  // Parse reading like "Psalm 89:1-18" or "1 Corinthians 13:1-13"
-  const match = reading.match(/^(.+?)\s+(\d+):(.+)$/);
-  if (!match) return "#";
+  // "Book Chapter:Verses" (e.g., "Psalm 89:1-18", "1 Corinthians 13:1-13")
+  const matchChapterVerses = reading.match(/^(.+?)\s+(\d+):(.+)$/);
+  if (matchChapterVerses) {
+    const [, book, chapter, verses] = matchChapterVerses;
+    const abbrev = bookAbbreviations[book];
+    if (!abbrev) return "#";
+    return `https://www.bible.com/bible/111/${abbrev}.${chapter}.${verses}.NIV`;
+  }
 
-  const [, book, chapter, verses] = match;
-  const abbrev = bookAbbreviations[book];
-  if (!abbrev) return "#";
+  // "Book Chapter" — whole chapter (e.g., "Psalm 32", "Isaiah 55")
+  const matchWholeChapter = reading.match(/^(.+?)\s+(\d+)$/);
+  if (matchWholeChapter) {
+    const [, book, chapter] = matchWholeChapter;
+    const abbrev = bookAbbreviations[book];
+    if (!abbrev) return "#";
+    return `https://www.bible.com/bible/111/${abbrev}.${chapter}.NIV`;
+  }
 
-  // Format: https://www.bible.com/bible/111/GEN.1.20-31.NIV
-  return `https://www.bible.com/bible/111/${abbrev}.${chapter}.${verses}.NIV`;
+  // "Book Verses" — single-chapter books (e.g., "Philemon 1-25")
+  const matchVerseRange = reading.match(/^(.+?)\s+(\d+[-–]\d+)$/);
+  if (matchVerseRange) {
+    const [, book, verses] = matchVerseRange;
+    const abbrev = bookAbbreviations[book];
+    if (!abbrev) return "#";
+    return `https://www.bible.com/bible/111/${abbrev}.1.${verses}.NIV`;
+  }
+
+  return "#";
 }
 
 function Panel({
